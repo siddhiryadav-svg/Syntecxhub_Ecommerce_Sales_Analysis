@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price,Payment_Method,City,Total_Sales
+ORD0001,2025-01-01,1103,Smartwatch,Electronics,2,6035,UPI,Delhi,12070
+ORD0002,2025-01-02,1180,Laptop,Computers,2,37776,Credit Card,Bangalore,75552
+ORD0003,2025-01-03,1093,Keyboard,Accessories,5,1619,Debit Card,Jaipur,8095
+ORD0004,2025-01-04,1015,Headphones,Accessories,4,3488,Credit Card,Jaipur,13952
+ORD0005,2025-01-05,1107,Mobile,Electronics,4,38835,Credit Card,Hyderabad,155340
+ORD0006,2025-01-06,1072,Laptop,Computers,3,42697,UPI,Bangalore,128091
+ORD0007,2025-01-07,1189,Mouse,Accessories,2,593,Debit Card,Chennai,1186
+ORD0008,2025-01-08,1021,Monitor,Computers,5,13386,Cash on Delivery,Chennai,66930
+ORD0009,2025-01-09,1103,Keyboard,Accessories,5,1162,Credit Card,Jaipur,5810
+ORD0010,2025-01-10,1122,Mobile,Electronics,4,18044,Credit Card,Delhi,72176
+ORD0011,2025-01-11,1075,Smartwatch,Electronics,2,5718,Cash on Delivery,Delhi,11436
+ORD0012,2025-01-12,1088,Mobile,Electronics,3,19615,Debit Card,Mumbai,58845
+ORD0013,2025-01-13,1117,Headphones,Accessories,2,3208,Credit Card,Bangalore,6416
+ORD0014,2025-01-14,1100,Smartwatch,Electronics,1,7374,Credit Card,Bangalore,7374
+ORD0015,2025-01-15,1104,Headphones,Accessories,2,4314,Credit Card,Chennai,8628
+ORD0016,2025-01-16,1152,Mouse,Accessories,1,1009,Debit Card,Mumbai,1009
+ORD0017,2025-01-17,1131,Monitor,Computers,1,15635,Debit Card,Hyderabad,15635
+ORD0018,2025-01-18,1150,Mouse,Accessories,3,1211,Cash on Delivery,Bangalore,3633
+ORD0019,2025-01-19,1053,Laptop,Computers,4,42148,Debit Card,Mumbai,168592
+ORD0020,2025-01-20,1002,Laptop,Computers,2,53748,Debit Card,Mumbai,107496
+ORD0021,2025-01-21,1088,Mouse,Accessories,1,1881,UPI,Jaipur,1881
+ORD0022,2025-01-22,1158,Monitor,Computers,2,10919,Cash on Delivery,Chennai,21838
+ORD0023,2025-01-23,1038,Mouse,Accessories,4,1850,Credit Card,Mumbai,7400
+ORD0024,2025-01-24,1130,Monitor,Computers,4,11638,Debit Card,Kolkata,46552
+ORD0025,2025-01-25,1192,Monitor,Computers,5,9651,Credit Card,Delhi,48255
+ORD0026,2025-01-26,1188,Tablet,Electronics,4,10609,Credit Card,Kolkata,42436
+ORD0027,2025-01-27,1021,Smartwatch,Electronics,3,9440,UPI,Delhi,28320
+ORD0028,2025-01-28,1161,Keyboard,Accessories,1,2656,Debit Card,Pune,2656
+ORD0029,2025-01-29,1058,Monitor,Computers,5,8866,Cash on Delivery,Chennai,44330
+ORD0030,2025-01-30,1022,Headphones,Accessories,3,871,Debit Card,Jaipur,2613
+ORD0031,2025-01-31,1089,Monitor,Computers,2,21999,Credit Card,Hyderabad,43998
+ORD0032,2025-02-01,1049,Monitor,Computers,1,7253,Cash on Delivery,Kolkata,7253
+ORD0033,2025-02-02,1059,Monitor,Computers,4,9942,Debit Card,Kolkata,39768
+ORD0034,2025-02-03,1170,Tablet,Electronics,1,22330,Credit Card,Pune,22330
+ORD0035,2025-02-04,1188,Smartwatch,Electronics,2,2364,Credit Card,Delhi,4728
+ORD0036,2025-02-05,1015,Tablet,Electronics,5,11268,UPI,Jaipur,56340
+ORD0037,2025-02-06,1190,Laptop,Computers,5,75222,UPI,Pune,376110
+ORD0038,2025-02-07,1190,Tablet,Electronics,5,23666,UPI,Chennai,118330
+ORD0039,2025-02-08,1175,Headphones,Accessories,4,1284,Credit Card,Jaipur,5136
+ORD0040,2025-02-09,1190,Headphones,Accessories,3,4678,Debit Card,Chennai,14034
+ORD0041,2025-02-10,1051,Tablet,Electronics,3,15229,UPI,Mumbai,45687
+ORD0042,2025-02-11,1108,Smartwatch,Electronics,1,3737,Debit Card,Bangalore,3737
+ORD0043,2025-02-12,1055,Mouse,Accessories,4,1099,UPI,Mumbai,4396
+ORD0044,2025-02-13,1064,Keyboard,Accessories,5,1435,Cash on Delivery,Chennai,7175
+ORD0045,2025-02-14,1131,Smartwatch,Electronics,5,7894,Cash on Delivery,Kolkata,39470
+ORD0046,2025-02-15,1051,Tablet,Electronics,2,34275,UPI,Jaipur,68550
+ORD0047,2025-02-16,1135,Monitor,Computers,2,15530,Credit Card,Delhi,31060
+ORD0048,2025-02-17,1021,Mobile,Electronics,5,26709,UPI,Hyderabad,133545
+ORD0049,2025-02-18,1073,Keyboard,Accessories,5,2034,UPI,Delhi,10170
+ORD0050,2025-02-19,1167,Keyboard,Accessories,4,2485,Credit Card,Jaipur,9940
+ORD0051,2025-02-20,1018,Headphones,Accessories,3,3278,Cash on Delivery,Mumbai,9834
+ORD0052,2025-02-21,1132,Keyboard,Accessories,2,2619,Debit Card,Hyderabad,5238
+ORD0053,2025-02-22,1089,Tablet,Electronics,3,19462,UPI,Jaipur,58386
+ORD0054,2025-02-23,1060,Monitor,Computers,4,19166,Credit Card,Chennai,76664
+ORD0055,2025-02-24,1014,Monitor,Computers,5,12754,UPI,Kolkata,63770
+ORD0056,2025-02-25,1009,Laptop,Computers,3,39078,Credit Card,Delhi,117234
+ORD0057,2025-02-26,1090,Monitor,Computers,5,17853,Debit Card,Chennai,89265
+ORD0058,2025-02-27,1053,Smartwatch,Electronics,5,2867,Debit Card,Hyderabad,14335
+ORD0059,2025-02-28,1130,Monitor,Computers,1,9042,Cash on Delivery,Hyderabad,9042
+ORD0060,2025-03-01,1084,Headphones,Accessories,3,3075,Credit Card,Delhi,9225
+ORD0061,2025-03-02,1092,Monitor,Computers,3,11754,Credit Card,Chennai,35262
+ORD0062,2025-03-03,1111,Laptop,Computers,5,63179,Cash on Delivery,Pune,315895
+ORD0063,2025-03-04,1188,Mobile,Electronics,4,44754,Cash on Delivery,Chennai,179016
+ORD0064,2025-03-05,1199,Tablet,Electronics,1,28624,Credit Card,Hyderabad,28624
+ORD0065,2025-03-06,1172,Headphones,Accessories,5,4466,Cash on Delivery,Chennai,22330
+ORD0066,2025-03-07,1008,Smartwatch,Electronics,2,11797,Debit Card,Kolkata,23594
+ORD0067,2025-03-08,1175,Mobile,Electronics,2,33988,UPI,Jaipur,67976
+ORD0068,2025-03-09,1035,Headphones,Accessories,1,628,Debit Card,Mumbai,628
+ORD0069,2025-03-10,1081,Mouse,Accessories,4,1005,Cash on Delivery,Kolkata,4020
+ORD0070,2025-03-11,1164,Keyboard,Accessories,5,1351,Credit Card,Pune,6755
+ORD0071,2025-03-12,1050,Mouse,Accessories,3,1649,Credit Card,Bangalore,4947
+ORD0072,2025-03-13,1104,Monitor,Computers,1,9103,Debit Card,Jaipur,9103
+ORD0073,2025-03-14,1132,Mobile,Electronics,4,44844,Credit Card,Mumbai,179376
+ORD0074,2025-03-15,1002,Monitor,Computers,3,7994,Cash on Delivery,Bangalore,23982
+ORD0075,2025-03-16,1134,Keyboard,Accessories,2,2678,Debit Card,Delhi,5356
+ORD0076,2025-03-17,1054,Headphones,Accessories,2,3256,Credit Card,Bangalore,6512
+ORD0077,2025-03-18,1106,Keyboard,Accessories,3,1998,UPI,Jaipur,5994
+ORD0078,2025-03-19,1004,Laptop,Computers,1,75299,UPI,Chennai,75299
+ORD0079,2025-03-20,1054,Keyboard,Accessories,2,2759,Cash on Delivery,Jaipur,5518
+ORD0080,2025-03-21,1191,Laptop,Computers,5,53028,Credit Card,Kolkata,265140
+ORD0081,2025-03-22,1146,Keyboard,Accessories,3,775,Cash on Delivery,Bangalore,2325
+ORD0082,2025-03-23,1044,Tablet,Electronics,3,13144,Debit Card,Hyderabad,39432
+ORD0083,2025-03-24,1162,Laptop,Computers,2,48990,UPI,Mumbai,97980
+ORD0084,2025-03-25,1190,Mobile,Electronics,1,26626,Debit Card,Mumbai,26626
+ORD0085,2025-03-26,1014,Monitor,Computers,5,12954,Credit Card,Bangalore,64770
+ORD0086,2025-03-27,1095,Smartwatch,Electronics,1,8769,Cash on Delivery,Mumbai,8769
+ORD0087,2025-03-28,1048,Monitor,Computers,4,12130,Cash on Delivery,Hyderabad,48520
+ORD0088,2025-03-29,1015,Mouse,Accessories,4,984,Cash on Delivery,Jaipur,3936
+ORD0089,2025-03-30,1200,Monitor,Computers,2,13844,Debit Card,Mumbai,27688
+ORD0090,2025-03-31,1190,Headphones,Accessories,2,4012,UPI,Bangalore,8024
+ORD0091,2025-04-01,1040,Tablet,Electronics,2,23397,Debit Card,Pune,46794
+ORD0092,2025-04-02,1082,Keyboard,Accessories,4,1999,Debit Card,Pune,7996
+ORD0093,2025-04-03,1111,Mouse,Accessories,1,351,Credit Card,Delhi,351
+ORD0094,2025-04-04,1053,Headphones,Accessories,1,2658,Credit Card,Kolkata,2658
+ORD0095,2025-04-05,1024,Headphones,Accessories,2,2472,Credit Card,Mumbai,4944
+ORD0096,2025-04-06,1154,Laptop,Computers,5,45450,UPI,Kolkata,227250
+ORD0097,2025-04-07,1188,Monitor,Computers,1,7035,UPI,Jaipur,7035
+ORD0098,2025-04-08,1124,Mobile,Electronics,4,27241,Credit Card,Bangalore,108964
+ORD0099,2025-04-09,1041,Smartwatch,Electronics,3,5323,Credit Card,Mumbai,15969
+ORD0100,2025-04-10,1157,Mobile,Electronics,3,33154,UPI,Chennai,99462
+ORD0101,2025-04-11,1015,Mouse,Accessories,3,1349,Cash on Delivery,Hyderabad,4047
+ORD0102,2025-04-12,1045,Tablet,Electronics,5,22182,UPI,Mumbai,110910
+ORD0103,2025-04-13,1065,Mobile,Electronics,2,43066,UPI,Mumbai,86132
+ORD0104,2025-04-14,1089,Keyboard,Accessories,4,1423,UPI,Kolkata,5692
+ORD0105,2025-04-15,1071,Mobile,Electronics,5,23331,Credit Card,Kolkata,116655
+ORD0106,2025-04-16,1009,Mouse,Accessories,4,739,Cash on Delivery,Pune,2956
+ORD0107,2025-04-17,1088,Smartwatch,Electronics,4,5806,UPI,Hyderabad,23224
+ORD0108,2025-04-18,1129,Mobile,Electronics,2,29183,Credit Card,Bangalore,58366
+ORD0109,2025-04-19,1136,Keyboard,Accessories,3,2074,Debit Card,Mumbai,6222
+ORD0110,2025-04-20,1063,Laptop,Computers,2,74346,Debit Card,Pune,148692
+ORD0111,2025-04-21,1139,Tablet,Electronics,5,14875,UPI,Kolkata,74375
+ORD0112,2025-04-22,1081,Mouse,Accessories,5,1530,Debit Card,Delhi,7650
+ORD0113,2025-04-23,1136,Laptop,Computers,5,47254,Cash on Delivery,Hyderabad,236270
+ORD0114,2025-04-24,1163,Laptop,Computers,2,63621,Debit Card,Pune,127242
+ORD0115,2025-04-25,1163,Laptop,Computers,4,45905,Debit Card,Pune,183620
+ORD0116,2025-04-26,1033,Headphones,Accessories,4,3353,Cash on Delivery,Jaipur,13412
+ORD0117,2025-04-27,1123,Tablet,Electronics,1,29041,UPI,Pune,29041
+ORD0118,2025-04-28,1005,Smartwatch,Electronics,5,4846,UPI,Jaipur,24230
+ORD0119,2025-04-29,1041,Monitor,Computers,4,14663,Cash on Delivery,Mumbai,58652
+ORD0120,2025-04-30,1028,Tablet,Electronics,1,29333,Cash on Delivery,Mumbai,29333
+ORD0121,2025-05-01,1135,Headphones,Accessories,4,1441,Cash on Delivery,Kolkata,5764
+ORD0122,2025-05-02,1072,Monitor,Computers,5,6907,Debit Card,Delhi,34535
+ORD0123,2025-05-03,1012,Tablet,Electronics,3,14837,Cash on Delivery,Chennai,44511
+ORD0124,2025-05-04,1162,Laptop,Computers,5,59489,Credit Card,Chennai,297445
+ORD0125,2025-05-05,1033,Mouse,Accessories,2,1543,Debit Card,Chennai,3086
+ORD0126,2025-05-06,1048,Monitor,Computers,4,10696,UPI,Kolkata,42784
+ORD0127,2025-05-07,1151,Keyboard,Accessories,4,1755,UPI,Jaipur,7020
+ORD0128,2025-05-08,1062,Keyboard,Accessories,2,827,UPI,Kolkata,1654
+ORD0129,2025-05-09,1037,Mobile,Electronics,2,11466,Debit Card,Hyderabad,22932
+ORD0130,2025-05-10,1099,Monitor,Computers,3,23350,Credit Card,Hyderabad,70050
+ORD0131,2025-05-11,1172,Mouse,Accessories,4,675,Cash on Delivery,Delhi,2700
+ORD0132,2025-05-12,1104,Smartwatch,Electronics,4,1762,Cash on Delivery,Hyderabad,7048
+ORD0133,2025-05-13,1035,Headphones,Accessories,3,4862,UPI,Chennai,14586
+ORD0134,2025-05-14,1193,Laptop,Computers,1,57886,UPI,Chennai,57886
+ORD0135,2025-05-15,1101,Mobile,Electronics,3,42651,Debit Card,Kolkata,127953
+ORD0136,2025-05-16,1175,Keyboard,Accessories,5,2393,Credit Card,Pune,11965
+ORD0137,2025-05-17,1131,Headphones,Accessories,4,4134,Cash on Delivery,Hyderabad,16536
+ORD0138,2025-05-18,1001,Headphones,Accessories,2,2152,Debit Card,Kolkata,4304
+ORD0139,2025-05-19,1005,Laptop,Computers,5,56924,Cash on Delivery,Mumbai,284620
+ORD0140,2025-05-20,1142,Smartwatch,Electronics,4,5392,UPI,Mumbai,21568
+ORD0141,2025-05-21,1103,Smartwatch,Electronics,3,2099,Cash on Delivery,Pune,6297
+ORD0142,2025-05-22,1027,Monitor,Computers,5,23296,Credit Card,Pune,116480
+ORD0143,2025-05-23,1137,Keyboard,Accessories,4,1792,Credit Card,Pune,7168
+ORD0144,2025-05-24,1015,Smartwatch,Electronics,1,10292,UPI,Kolkata,10292
+ORD0145,2025-05-25,1090,Mouse,Accessories,1,680,Credit Card,Mumbai,680
+ORD0146,2025-05-26,1042,Smartwatch,Electronics,2,5713,Credit Card,Chennai,11426
+ORD0147,2025-05-27,1124,Headphones,Accessories,4,4137,Debit Card,Pune,16548
+ORD0148,2025-05-28,1179,Laptop,Computers,1,67696,Cash on Delivery,Delhi,67696
+ORD0149,2025-05-29,1063,Mouse,Accessories,3,415,UPI,Jaipur,1245
+ORD0150,2025-05-30,1096,Monitor,Computers,4,20989,UPI,Kolkata,83956
+ORD0151,2025-05-31,1052,Keyboard,Accessories,3,759,UPI,Pune,2277
+ORD0152,2025-06-01,1096,Monitor,Computers,3,14290,UPI,Jaipur,42870
+ORD0153,2025-06-02,1132,Headphones,Accessories,1,865,UPI,Bangalore,865
+ORD0154,2025-06-03,1151,Mouse,Accessories,4,1957,Credit Card,Pune,7828
+ORD0155,2025-06-04,1143,Mouse,Accessories,5,822,Debit Card,Mumbai,4110
+ORD0156,2025-06-05,1171,Mouse,Accessories,1,1671,UPI,Hyderabad,1671
+ORD0157,2025-06-06,1029,Headphones,Accessories,1,2976,Debit Card,Pune,2976
+ORD0158,2025-06-07,1036,Headphones,Accessories,4,1290,Debit Card,Kolkata,5160
+ORD0159,2025-06-08,1013,Monitor,Computers,4,24953,Credit Card,Hyderabad,99812
+ORD0160,2025-06-09,1160,Mobile,Electronics,3,27130,UPI,Bangalore,81390
+ORD0161,2025-06-10,1071,Monitor,Computers,4,9633,Credit Card,Delhi,38532
+ORD0162,2025-06-11,1187,Keyboard,Accessories,3,1420,UPI,Hyderabad,4260
+ORD0163,2025-06-12,1086,Laptop,Computers,1,77037,Credit Card,Jaipur,77037
+ORD0164,2025-06-13,1028,Mouse,Accessories,2,1864,Debit Card,Chennai,3728
+ORD0165,2025-06-14,1066,Mobile,Electronics,5,17008,UPI,Pune,85040
+ORD0166,2025-06-15,1170,Laptop,Computers,1,62405,Cash on Delivery,Bangalore,62405
+ORD0167,2025-06-16,1045,Mobile,Electronics,4,46386,Debit Card,Bangalore,185544
+ORD0168,2025-06-17,1062,Smartwatch,Electronics,5,10489,Cash on Delivery,Hyderabad,52445
+ORD0169,2025-06-18,1185,Smartwatch,Electronics,2,5943,Debit Card,Delhi,11886
+ORD0170,2025-06-19,1134,Tablet,Electronics,2,10272,Credit Card,Mumbai,20544
+ORD0171,2025-06-20,1028,Smartwatch,Electronics,3,3273,UPI,Pune,9819
+ORD0172,2025-06-21,1028,Monitor,Computers,5,7547,Debit Card,Bangalore,37735
+ORD0173,2025-06-22,1108,Smartwatch,Electronics,3,4664,Credit Card,Delhi,13992
+ORD0174,2025-06-23,1044,Headphones,Accessories,1,1446,UPI,Chennai,1446
+ORD0175,2025-06-24,1084,Mouse,Accessories,5,657,UPI,Bangalore,3285
+ORD0176,2025-06-25,1030,Monitor,Computers,1,21890,Debit Card,Delhi,21890
+ORD0177,2025-06-26,1190,Laptop,Computers,3,65254,UPI,Kolkata,195762
+ORD0178,2025-06-27,1075,Tablet,Electronics,5,25540,Debit Card,Mumbai,127700
+ORD0179,2025-06-28,1128,Tablet,Electronics,3,16719,UPI,Mumbai,50157
+ORD0180,2025-06-29,1092,Tablet,Electronics,5,18435,Cash on Delivery,Bangalore,92175
+ORD0181,2025-06-30,1190,Laptop,Computers,3,60081,Credit Card,Jaipur,180243
+ORD0182,2025-07-01,1129,Laptop,Computers,2,46350,Cash on Delivery,Bangalore,92700
+ORD0183,2025-07-02,1121,Laptop,Computers,3,71358,Debit Card,Hyderabad,214074
+ORD0184,2025-07-03,1027,Laptop,Computers,2,67021,Cash on Delivery,Pune,134042
+ORD0185,2025-07-04,1190,Tablet,Electronics,3,20064,Debit Card,Delhi,60192
+ORD0186,2025-07-05,1121,Tablet,Electronics,5,38369,UPI,Bangalore,191845
+ORD0187,2025-07-06,1116,Mobile,Electronics,5,41728,UPI,Pune,208640
+ORD0188,2025-07-07,1003,Monitor,Computers,5,22576,Debit Card,Hyderabad,112880
+ORD0189,2025-07-08,1103,Mouse,Accessories,4,629,Cash on Delivery,Kolkata,2516
+ORD0190,2025-07-09,1198,Smartwatch,Electronics,1,2964,UPI,Kolkata,2964
+ORD0191,2025-07-10,1200,Smartwatch,Electronics,5,1890,Credit Card,Pune,9450
+ORD0192,2025-07-11,1155,Headphones,Accessories,2,4976,UPI,Bangalore,9952
+ORD0193,2025-07-12,1137,Tablet,Electronics,5,21569,Credit Card,Mumbai,107845
+ORD0194,2025-07-13,1062,Headphones,Accessories,4,1172,Cash on Delivery,Delhi,4688
+ORD0195,2025-07-14,1165,Monitor,Computers,2,7560,Credit Card,Delhi,15120
+ORD0196,2025-07-15,1051,Monitor,Computers,4,10867,Credit Card,Kolkata,43468
+ORD0197,2025-07-16,1172,Headphones,Accessories,2,1711,Credit Card,Kolkata,3422
+ORD0198,2025-07-17,1152,Tablet,Electronics,3,19121,Credit Card,Mumbai,57363
+ORD0199,2025-07-18,1059,Headphones,Accessories,1,2039,UPI,Jaipur,2039
+ORD0200,2025-07-19,1118,Smartwatch,Electronics,1,10604,Credit Card,Bangalore,10604
+ORD0201,2025-07-20,1160,Mobile,Electronics,4,27027,UPI,Kolkata,108108
+ORD0202,2025-07-21,1096,Smartwatch,Electronics,1,10193,Credit Card,Kolkata,10193
+ORD0203,2025-07-22,1180,Keyboard,Accessories,4,1229,Debit Card,Kolkata,4916
+ORD0204,2025-07-23,1113,Tablet,Electronics,4,27667,Cash on Delivery,Delhi,110668
+ORD0205,2025-07-24,1062,Tablet,Electronics,4,34064,Credit Card,Bangalore,136256
+ORD0206,2025-07-25,1186,Mouse,Accessories,1,370,Debit Card,Hyderabad,370
+ORD0207,2025-07-26,1052,Laptop,Computers,4,65908,Credit Card,Bangalore,263632
+ORD0208,2025-07-27,1012,Keyboard,Accessories,1,790,Credit Card,Pune,790
+ORD0209,2025-07-28,1039,Monitor,Computers,4,22303,Credit Card,Mumbai,89212
+ORD0210,2025-07-29,1130,Tablet,Electronics,5,22242,Debit Card,Jaipur,111210
+ORD0211,2025-07-30,1131,Headphones,Accessories,4,2839,Cash on Delivery,Kolkata,11356
+ORD0212,2025-07-31,1113,Keyboard,Accessories,2,2469,Debit Card,Kolkata,4938
+ORD0213,2025-08-01,1101,Mouse,Accessories,4,1055,Cash on Delivery,Bangalore,4220
+ORD0214,2025-08-02,1113,Monitor,Computers,3,18946,Credit Card,Jaipur,56838
+ORD0215,2025-08-03,1184,Laptop,Computers,4,40930,UPI,Kolkata,163720
+ORD0216,2025-08-04,1081,Laptop,Computers,2,73170,Credit Card,Jaipur,146340
+ORD0217,2025-08-05,1187,Mouse,Accessories,2,1867,Cash on Delivery,Hyderabad,3734
+ORD0218,2025-08-06,1113,Mouse,Accessories,1,676,Debit Card,Chennai,676
+ORD0219,2025-08-07,1002,Headphones,Accessories,5,1007,Credit Card,Mumbai,5035
+ORD0220,2025-08-08,1130,Tablet,Electronics,4,11436,Debit Card,Jaipur,45744
+ORD0221,2025-08-09,1054,Laptop,Computers,1,62151,Debit Card,Delhi,62151
+ORD0222,2025-08-10,1087,Monitor,Computers,5,16618,Debit Card,Pune,83090
+ORD0223,2025-08-11,1129,Keyboard,Accessories,4,1058,Credit Card,Delhi,4232
+ORD0224,2025-08-12,1147,Monitor,Computers,3,21122,Debit Card,Kolkata,63366
+ORD0225,2025-08-13,1126,Mobile,Electronics,4,17354,Debit Card,Hyderabad,69416
+ORD0226,2025-08-14,1130,Mobile,Electronics,2,40979,Credit Card,Hyderabad,81958
+ORD0227,2025-08-15,1053,Mouse,Accessories,2,720,Debit Card,Delhi,1440
+ORD0228,2025-08-16,1172,Headphones,Accessories,3,4122,Credit Card,Mumbai,12366
+ORD0229,2025-08-17,1160,Mobile,Electronics,1,47167,Cash on Delivery,Delhi,47167
+ORD0230,2025-08-18,1198,Laptop,Computers,5,40037,Cash on Delivery,Bangalore,200185
+ORD0231,2025-08-19,1160,Monitor,Computers,4,20848,Cash on Delivery,Kolkata,83392
+ORD0232,2025-08-20,1068,Monitor,Computers,2,8715,Debit Card,Kolkata,17430
+ORD0233,2025-08-21,1183,Mouse,Accessories,1,841,UPI,Delhi,841
+ORD0234,2025-08-22,1184,Tablet,Electronics,3,17837,UPI,Pune,53511
+ORD0235,2025-08-23,1123,Tablet,Electronics,2,11301,Debit Card,Pune,22602
+ORD0236,2025-08-24,1145,Keyboard,Accessories,3,1589,UPI,Kolkata,4767
+ORD0237,2025-08-25,1038,Mouse,Accessories,4,407,Credit Card,Chennai,1628
+ORD0238,2025-08-26,1024,Smartwatch,Electronics,5,7911,UPI,Pune,39555
+ORD0239,2025-08-27,1069,Keyboard,Accessories,2,2769,Debit Card,Delhi,5538
+ORD0240,2025-08-28,1116,Smartwatch,Electronics,2,2192,Debit Card,Pune,4384
+ORD0241,2025-08-29,1098,Tablet,Electronics,4,38926,Credit Card,Kolkata,155704
+ORD0242,2025-08-30,1198,Mouse,Accessories,1,1778,Cash on Delivery,Mumbai,1778
+ORD0243,2025-08-31,1139,Smartwatch,Electronics,5,7896,Debit Card,Jaipur,39480
+ORD0244,2025-09-01,1144,Mouse,Accessories,2,556,Credit Card,Pune,1112
+ORD0245,2025-09-02,1097,Mouse,Accessories,5,682,UPI,Bangalore,3410
+ORD0246,2025-09-03,1124,Tablet,Electronics,2,26825,UPI,Mumbai,53650
+ORD0247,2025-09-04,1187,Keyboard,Accessories,5,2381,Credit Card,Chennai,11905
+ORD0248,2025-09-05,1070,Keyboard,Accessories,3,1613,Credit Card,Bangalore,4839
+ORD0249,2025-09-06,1093,Mouse,Accessories,2,689,Debit Card,Delhi,1378
+ORD0250,2025-09-07,1003,Mobile,Electronics,5,31061,UPI,Jaipur,155305
+ORD0251,2025-09-08,1148,Headphones,Accessories,1,2235,Credit Card,Delhi,2235
+ORD0252,2025-09-09,1187,Tablet,Electronics,3,21927,UPI,Jaipur,65781
+ORD0253,2025-09-10,1164,Headphones,Accessories,3,3145,Credit Card,Jaipur,9435
+ORD0254,2025-09-11,1147,Headphones,Accessories,1,518,UPI,Delhi,518
+ORD0255,2025-09-12,1090,Keyboard,Accessories,5,1624,Cash on Delivery,Bangalore,8120
+ORD0256,2025-09-13,1195,Keyboard,Accessories,4,1880,Debit Card,Bangalore,7520
+ORD0257,2025-09-14,1147,Mobile,Electronics,1,12080,UPI,Jaipur,12080
+ORD0258,2025-09-15,1148,Headphones,Accessories,5,2047,Cash on Delivery,Bangalore,10235
+ORD0259,2025-09-16,1096,Headphones,Accessories,1,1361,UPI,Jaipur,1361
+ORD0260,2025-09-17,1199,Mouse,Accessories,1,454,UPI,Kolkata,454
+ORD0261,2025-09-18,1052,Keyboard,Accessories,2,1404,Cash on Delivery,Jaipur,2808
+ORD0262,2025-09-19,1161,Headphones,Accessories,5,1769,UPI,Kolkata,8845
+ORD0263,2025-09-20,1168,Monitor,Computers,4,21788,UPI,Mumbai,87152
+ORD0264,2025-09-21,1128,Mobile,Electronics,2,36140,Debit Card,Hyderabad,72280
+ORD0265,2025-09-22,1039,Smartwatch,Electronics,1,2684,Cash on Delivery,Mumbai,2684
+ORD0266,2025-09-23,1082,Monitor,Computers,1,6725,Cash on Delivery,Delhi,6725
+ORD0267,2025-09-24,1104,Monitor,Computers,1,16380,Credit Card,Hyderabad,16380
+ORD0268,2025-09-25,1129,Smartwatch,Electronics,5,9962,UPI,Pune,49810
+ORD0269,2025-09-26,1011,Tablet,Electronics,5,23057,Debit Card,Delhi,115285
+ORD0270,2025-09-27,1185,Tablet,Electronics,2,32195,UPI,Chennai,64390
+ORD0271,2025-09-28,1178,Mobile,Electronics,4,15606,UPI,Mumbai,62424
+ORD0272,2025-09-29,1151,Monitor,Computers,2,8956,Credit Card,Bangalore,17912
+ORD0273,2025-09-30,1159,Headphones,Accessories,3,671,UPI,Mumbai,2013
+ORD0274,2025-10-01,1042,Keyboard,Accessories,1,773,Debit Card,Bangalore,773
+ORD0275,2025-10-02,1099,Mobile,Electronics,1,28690,Debit Card,Hyderabad,28690
+ORD0276,2025-10-03,1007,Mouse,Accessories,1,1458,Credit Card,Chennai,1458
+ORD0277,2025-10-04,1144,Smartwatch,Electronics,2,11398,UPI,Hyderabad,22796
+ORD0278,2025-10-05,1090,Monitor,Computers,2,21081,Debit Card,Chennai,42162
+ORD0279,2025-10-06,1112,Mobile,Electronics,1,36347,UPI,Mumbai,36347
+ORD0280,2025-10-07,1060,Laptop,Computers,2,68189,UPI,Bangalore,136378
+ORD0281,2025-10-08,1113,Laptop,Computers,5,73308,UPI,Hyderabad,366540
+ORD0282,2025-10-09,1002,Tablet,Electronics,5,35785,Credit Card,Chennai,178925
+ORD0283,2025-10-10,1129,Smartwatch,Electronics,2,6175,UPI,Jaipur,12350
+ORD0284,2025-10-11,1048,Keyboard,Accessories,1,1390,Debit Card,Delhi,1390
+ORD0285,2025-10-12,1140,Headphones,Accessories,2,3767,UPI,Delhi,7534
+ORD0286,2025-10-13,1197,Keyboard,Accessories,2,1380,Debit Card,Hyderabad,2760
+ORD0287,2025-10-14,1037,Keyboard,Accessories,2,1621,UPI,Bangalore,3242
+ORD0288,2025-10-15,1160,Keyboard,Accessories,3,2507,Debit Card,Jaipur,7521
+ORD0289,2025-10-16,1009,Smartwatch,Electronics,5,2973,Debit Card,Hyderabad,14865
+ORD0290,2025-10-17,1099,Keyboard,Accessories,4,882,UPI,Mumbai,3528
+ORD0291,2025-10-18,1147,Mouse,Accessories,4,433,UPI,Chennai,1732
+ORD0292,2025-10-19,1048,Smartwatch,Electronics,3,11141,Debit Card,Kolkata,33423
+ORD0293,2025-10-20,1131,Mouse,Accessories,2,1348,Cash on Delivery,Mumbai,2696
+ORD0294,2025-10-21,1148,Smartwatch,Electronics,3,8146,Credit Card,Delhi,24438
+ORD0295,2025-10-22,1152,Tablet,Electronics,3,37832,Cash on Delivery,Chennai,113496
+ORD0296,2025-10-23,1054,Mobile,Electronics,1,19782,Cash on Delivery,Hyderabad,19782
+ORD0297,2025-10-24,1120,Laptop,Computers,5,73650,UPI,Mumbai,368250
+ORD0298,2025-10-25,1161,Keyboard,Accessories,4,643,Credit Card,Pune,2572
+ORD0299,2025-10-26,1152,Tablet,Electronics,2,32366,Cash on Delivery,Kolkata,64732
+ORD0300,2025-10-27,1116,Mobile,Electronics,4,38557,UPI,Bangalore,154228
+ORD0301,2025-10-28,1075,Laptop,Computers,4,40798,Cash on Delivery,Jaipur,163192
+ORD0302,2025-10-29,1113,Monitor,Computers,5,14627,Cash on Delivery,Jaipur,73135
+ORD0303,2025-10-30,1200,Headphones,Accessories,4,723,UPI,Bangalore,2892
+ORD0304,2025-10-31,1164,Mouse,Accessories,4,519,UPI,Pune,2076
+ORD0305,2025-11-01,1166,Monitor,Computers,3,17466,UPI,Delhi,52398
+ORD0306,2025-11-02,1104,Smartwatch,Electronics,5,11346,Credit Card,Chennai,56730
+ORD0307,2025-11-03,1084,Laptop,Computers,1,47720,Cash on Delivery,Bangalore,47720
+ORD0308,2025-11-04,1112,Monitor,Computers,2,14145,UPI,Pune,28290
+ORD0309,2025-11-05,1099,Headphones,Accessories,4,4233,Debit Card,Hyderabad,16932
+ORD0310,2025-11-06,1153,Tablet,Electronics,2,16559,Cash on Delivery,Kolkata,33118
+ORD0311,2025-11-07,1093,Laptop,Computers,1,75388,Debit Card,Jaipur,75388
+ORD0312,2025-11-08,1146,Monitor,Computers,2,24158,Credit Card,Kolkata,48316
+ORD0313,2025-11-09,1128,Mouse,Accessories,1,496,UPI,Pune,496
+ORD0314,2025-11-10,1110,Mouse,Accessories,3,1877,Debit Card,Kolkata,5631
+ORD0315,2025-11-11,1082,Mobile,Electronics,4,45892,Credit Card,Delhi,183568
+ORD0316,2025-11-12,1194,Monitor,Computers,1,13671,UPI,Delhi,13671
+ORD0317,2025-11-13,1054,Keyboard,Accessories,2,1853,Debit Card,Mumbai,3706
+ORD0318,2025-11-14,1163,Monitor,Computers,4,17070,Debit Card,Bangalore,68280
+ORD0319,2025-11-15,1189,Tablet,Electronics,3,35465,Credit Card,Mumbai,106395
+ORD0320,2025-11-16,1169,Laptop,Computers,4,75902,UPI,Kolkata,303608
+ORD0321,2025-11-17,1161,Laptop,Computers,1,35924,UPI,Jaipur,35924
+ORD0322,2025-11-18,1068,Tablet,Electronics,3,28554,Debit Card,Pune,85662
+ORD0323,2025-11-19,1033,Monitor,Computers,2,10506,Debit Card,Chennai,21012
+ORD0324,2025-11-20,1142,Tablet,Electronics,3,23650,Debit Card,Kolkata,70950
+ORD0325,2025-11-21,1021,Headphones,Accessories,3,2895,UPI,Chennai,8685
+ORD0326,2025-11-22,1048,Smartwatch,Electronics,5,9720,Credit Card,Delhi,48600
+ORD0327,2025-11-23,1148,Tablet,Electronics,3,25310,Credit Card,Chennai,75930
+ORD0328,2025-11-24,1128,Mouse,Accessories,3,334,UPI,Chennai,1002
+ORD0329,2025-11-25,1136,Tablet,Electronics,4,21781,Cash on Delivery,Jaipur,87124
+ORD0330,2025-11-26,1135,Laptop,Computers,2,40515,Credit Card,Chennai,81030
+ORD0331,2025-11-27,1195,Mouse,Accessories,4,922,Debit Card,Kolkata,3688
+ORD0332,2025-11-28,1145,Laptop,Computers,4,71133,Cash on Delivery,Pune,284532
+ORD0333,2025-11-29,1128,Mobile,Electronics,1,26972,Cash on Delivery,Chennai,26972
+ORD0334,2025-11-30,1033,Keyboard,Accessories,4,1403,Credit Card,Hyderabad,5612
+ORD0335,2025-12-01,1176,Laptop,Computers,5,58047,Cash on Delivery,Chennai,290235
+ORD0336,2025-12-02,1187,Mouse,Accessories,5,421,Cash on Delivery,Chennai,2105
+ORD0337,2025-12-03,1115,Mobile,Electronics,1,18531,Credit Card,Mumbai,18531
+ORD0338,2025-12-04,1119,Laptop,Computers,2,72038,Credit Card,Pune,144076
+ORD0339,2025-12-05,1022,Headphones,Accessories,2,2214,Cash on Delivery,Kolkata,4428
+ORD0340,2025-12-06,1158,Tablet,Electronics,4,39268,Debit Card,Delhi,157072
+ORD0341,2025-12-07,1038,Keyboard,Accessories,4,950,UPI,Mumbai,3800
+ORD0342,2025-12-08,1109,Laptop,Computers,4,51940,Cash on Delivery,Kolkata,207760
+ORD0343,2025-12-09,1051,Mobile,Electronics,2,39831,Cash on Delivery,Bangalore,79662
+ORD0344,2025-12-10,1182,Headphones,Accessories,3,3587,Debit Card,Pune,10761
+ORD0345,2025-12-11,1008,Monitor,Computers,5,10452,Cash on Delivery,Hyderabad,52260
+ORD0346,2025-12-12,1027,Mobile,Electronics,3,16477,Cash on Delivery,Pune,49431
+ORD0347,2025-12-13,1027,Tablet,Electronics,3,33884,UPI,Bangalore,101652
+ORD0348,2025-12-14,1021,Mobile,Electronics,2,27400,UPI,Bangalore,54800
+ORD0349,2025-12-15,1030,Headphones,Accessories,3,2562,UPI,Bangalore,7686
+ORD0350,2025-12-16,1097,Mobile,Electronics,1,29880,Credit Card,Jaipur,29880
+ORD0351,2025-12-17,1028,Headphones,Accessories,4,2313,Credit Card,Delhi,9252
+ORD0352,2025-12-18,1111,Laptop,Computers,1,79439,UPI,Chennai,79439
+ORD0353,2025-12-19,1192,Smartwatch,Electronics,5,7756,UPI,Pune,38780
+ORD0354,2025-12-20,1197,Headphones,Accessories,4,1951,Credit Card,Kolkata,7804
+ORD0355,2025-12-21,1061,Headphones,Accessories,3,2813,Debit Card,Jaipur,8439
+ORD0356,2025-12-22,1048,Keyboard,Accessories,5,2014,Cash on Delivery,Kolkata,10070
+ORD0357,2025-12-23,1147,Headphones,Accessories,4,1731,Cash on Delivery,Chennai,6924
+ORD0358,2025-12-24,1004,Headphones,Accessories,3,2145,UPI,Chennai,6435
+ORD0359,2025-12-25,1035,Monitor,Computers,1,10831,Debit Card,Hyderabad,10831
+ORD0360,2025-12-26,1192,Smartwatch,Electronics,4,4499,Credit Card,Bangalore,17996
+ORD0361,2025-12-27,1049,Laptop,Computers,3,71824,UPI,Delhi,215472
+ORD0362,2025-12-28,1017,Tablet,Electronics,1,10305,Debit Card,Hyderabad,10305
+ORD0363,2025-12-29,1172,Keyboard,Accessories,5,2559,Debit Card,Mumbai,12795
+ORD0364,2025-12-30,1158,Monitor,Computers,5,6689,Debit Card,Jaipur,33445
+ORD0365,2025-12-31,1046,Mouse,Accessories,5,1817,Credit Card,Jaipur,9085
+ORD0366,2026-01-01,1117,Smartwatch,Electronics,5,5417,Credit Card,Delhi,27085
+ORD0367,2026-01-02,1006,Laptop,Computers,2,37936,Cash on Delivery,Chennai,75872
+ORD0368,2026-01-03,1099,Laptop,Computers,4,71630,Cash on Delivery,Kolkata,286520
+ORD0369,2026-01-04,1124,Mouse,Accessories,4,470,Debit Card,Jaipur,1880
+ORD0370,2026-01-05,1037,Tablet,Electronics,2,38805,Debit Card,Delhi,77610
+ORD0371,2026-01-06,1024,Headphones,Accessories,3,1950,Credit Card,Jaipur,5850
+ORD0372,2026-01-07,1093,Monitor,Computers,3,10649,Cash on Delivery,Jaipur,31947
+ORD0373,2026-01-08,1046,Mobile,Electronics,5,37281,Debit Card,Bangalore,186405
+ORD0374,2026-01-09,1181,Keyboard,Accessories,1,1842,Cash on Delivery,Mumbai,1842
+ORD0375,2026-01-10,1095,Mobile,Electronics,3,48328,Cash on Delivery,Bangalore,144984
+ORD0376,2026-01-11,1099,Mouse,Accessories,1,1415,Debit Card,Mumbai,1415
+ORD0377,2026-01-12,1188,Laptop,Computers,4,53610,Credit Card,Jaipur,214440
+ORD0378,2026-01-13,1116,Tablet,Electronics,1,11079,Debit Card,Hyderabad,11079
+ORD0379,2026-01-14,1191,Laptop,Computers,4,64850,Debit Card,Kolkata,259400
+ORD0380,2026-01-15,1160,Keyboard,Accessories,2,2195,Cash on Delivery,Chennai,4390
+ORD0381,2026-01-16,1161,Laptop,Computers,2,55590,Debit Card,Jaipur,111180
+ORD0382,2026-01-17,1067,Laptop,Computers,5,65951,Credit Card,Mumbai,329755
+ORD0383,2026-01-18,1128,Keyboard,Accessories,3,967,Debit Card,Mumbai,2901
+ORD0384,2026-01-19,1018,Monitor,Computers,5,12235,Credit Card,Mumbai,61175
+ORD0385,2026-01-20,1025,Monitor,Computers,4,22197,Credit Card,Jaipur,88788
+ORD0386,2026-01-21,1054,Keyboard,Accessories,5,1772,Cash on Delivery,Delhi,8860
+ORD0387,2026-01-22,1058,Tablet,Electronics,1,31473,UPI,Hyderabad,31473
+ORD0388,2026-01-23,1067,Mouse,Accessories,4,622,UPI,Delhi,2488
+ORD0389,2026-01-24,1104,Smartwatch,Electronics,2,10595,Cash on Delivery,Chennai,21190
+ORD0390,2026-01-25,1174,Laptop,Computers,3,49287,Debit Card,Jaipur,147861
+ORD0391,2026-01-26,1024,Tablet,Electronics,4,15911,Cash on Delivery,Mumbai,63644
+ORD0392,2026-01-27,1114,Laptop,Computers,4,79463,Credit Card,Hyderabad,317852
+ORD0393,2026-01-28,1032,Smartwatch,Electronics,1,4153,UPI,Hyderabad,4153
+ORD0394,2026-01-29,1175,Mouse,Accessories,3,728,Cash on Delivery,Pune,2184
+ORD0395,2026-01-30,1086,Monitor,Computers,2,8340,Debit Card,Chennai,16680
+ORD0396,2026-01-31,1151,Tablet,Electronics,4,17876,Cash on Delivery,Kolkata,71504
+ORD0397,2026-02-01,1194,Headphones,Accessories,4,4743,UPI,Kolkata,18972
+ORD0398,2026-02-02,1127,Headphones,Accessories,1,1641,Cash on Delivery,Hyderabad,1641
+ORD0399,2026-02-03,1155,Smartwatch,Electronics,5,10541,Cash on Delivery,Jaipur,52705
+ORD0400,2026-02-04,1130,Headphones,Accessories,2,866,UPI,Mumbai,1732
+ORD0401,2026-02-05,1017,Monitor,Computers,3,24281,Credit Card,Mumbai,72843
+ORD0402,2026-02-06,1104,Smartwatch,Electronics,4,10781,Credit Card,Hyderabad,43124
+ORD0403,2026-02-07,1161,Monitor,Computers,4,7038,UPI,Delhi,28152
+ORD0404,2026-02-08,1137,Mouse,Accessories,2,1112,Cash on Delivery,Chennai,2224
+ORD0405,2026-02-09,1043,Laptop,Computers,5,67113,UPI,Mumbai,335565
+ORD0406,2026-02-10,1176,Mouse,Accessories,4,474,Credit Card,Hyderabad,1896
+ORD0407,2026-02-11,1039,Mouse,Accessories,2,887,Debit Card,Mumbai,1774
+ORD0408,2026-02-12,1170,Monitor,Computers,1,21878,Cash on Delivery,Kolkata,21878
+ORD0409,2026-02-13,1026,Smartwatch,Electronics,5,8616,Credit Card,Hyderabad,43080
+ORD0410,2026-02-14,1099,Smartwatch,Electronics,3,3284,Cash on Delivery,Chennai,9852
+ORD0411,2026-02-15,1050,Headphones,Accessories,4,4010,UPI,Hyderabad,16040
+ORD0412,2026-02-16,1153,Mobile,Electronics,2,13786,Debit Card,Pune,27572
+ORD0413,2026-02-17,1152,Laptop,Computers,1,56650,UPI,Hyderabad,56650
+ORD0414,2026-02-18,1013,Monitor,Computers,3,14190,Debit Card,Hyderabad,42570
+ORD0415,2026-02-19,1060,Headphones,Accessories,2,4969,Cash on Delivery,Jaipur,9938
+ORD0416,2026-02-20,1135,Tablet,Electronics,2,24892,Cash on Delivery,Kolkata,49784
+ORD0417,2026-02-21,1057,Mobile,Electronics,3,19643,UPI,Chennai,58929
+ORD0418,2026-02-22,1036,Mobile,Electronics,1,19943,Debit Card,Jaipur,19943
+ORD0419,2026-02-23,1173,Monitor,Computers,1,15472,Debit Card,Hyderabad,15472
+ORD0420,2026-02-24,1020,Keyboard,Accessories,5,1204,Cash on Delivery,Chennai,6020
+ORD0421,2026-02-25,1065,Laptop,Computers,4,56042,UPI,Pune,224168
+ORD0422,2026-02-26,1008,Mobile,Electronics,3,16869,Debit Card,Chennai,50607
+ORD0423,2026-02-27,1144,Monitor,Computers,3,12669,Cash on Delivery,Mumbai,38007
+ORD0424,2026-02-28,1142,Monitor,Computers,3,16538,Credit Card,Jaipur,49614
+ORD0425,2026-03-01,1115,Headphones,Accessories,1,2373,UPI,Chennai,2373
+ORD0426,2026-03-02,1143,Tablet,Electronics,4,32603,Credit Card,Kolkata,130412
+ORD0427,2026-03-03,1092,Keyboard,Accessories,5,938,UPI,Pune,4690
+ORD0428,2026-03-04,1098,Laptop,Computers,2,63379,Cash on Delivery,Bangalore,126758
+ORD0429,2026-03-05,1066,Smartwatch,Electronics,2,7479,Debit Card,Hyderabad,14958
+ORD0430,2026-03-06,1032,Mouse,Accessories,3,998,Debit Card,Chennai,2994
+ORD0431,2026-03-07,1191,Tablet,Electronics,4,27696,Debit Card,Hyderabad,110784
+ORD0432,2026-03-08,1086,Tablet,Electronics,1,12962,UPI,Delhi,12962
+ORD0433,2026-03-09,1051,Headphones,Accessories,4,3438,Cash on Delivery,Mumbai,13752
+ORD0434,2026-03-10,1153,Smartwatch,Electronics,4,11992,Credit Card,Jaipur,47968
+ORD0435,2026-03-11,1186,Mobile,Electronics,1,15296,Cash on Delivery,Mumbai,15296
+ORD0436,2026-03-12,1063,Mobile,Electronics,3,24745,Credit Card,Delhi,74235
+ORD0437,2026-03-13,1190,Headphones,Accessories,4,626,UPI,Delhi,2504
+ORD0438,2026-03-14,1125,Monitor,Computers,2,10602,UPI,Jaipur,21204
+ORD0439,2026-03-15,1150,Mobile,Electronics,1,27575,Credit Card,Chennai,27575
+ORD0440,2026-03-16,1058,Keyboard,Accessories,5,793,Credit Card,Delhi,3965
+ORD0441,2026-03-17,1058,Laptop,Computers,3,50997,Credit Card,Bangalore,152991
+ORD0442,2026-03-18,1086,Tablet,Electronics,1,27750,Cash on Delivery,Hyderabad,27750
+ORD0443,2026-03-19,1049,Tablet,Electronics,5,19211,Credit Card,Hyderabad,96055
+ORD0444,2026-03-20,1180,Keyboard,Accessories,5,2857,UPI,Pune,14285
+ORD0445,2026-03-21,1170,Smartwatch,Electronics,4,8171,UPI,Kolkata,32684
+ORD0446,2026-03-22,1070,Mobile,Electronics,4,33067,Debit Card,Delhi,132268
+ORD0447,2026-03-23,1015,Tablet,Electronics,4,22271,Credit Card,Delhi,89084
+ORD0448,2026-03-24,1054,Mouse,Accessories,1,718,Cash on Delivery,Bangalore,718
+ORD0449,2026-03-25,1188,Smartwatch,Electronics,1,6039,Cash on Delivery,Mumbai,6039
+ORD0450,2026-03-26,1101,Laptop,Computers,3,43876,Cash on Delivery,Mumbai,131628
+ORD0451,2026-03-27,1008,Laptop,Computers,4,37887,Debit Card,Hyderabad,151548
+ORD0452,2026-03-28,1053,Tablet,Electronics,5,19654,UPI,Hyderabad,98270
+ORD0453,2026-03-29,1060,Headphones,Accessories,2,4586,Cash on Delivery,Chennai,9172
+ORD0454,2026-03-30,1108,Smartwatch,Electronics,3,3761,UPI,Jaipur,11283
+ORD0455,2026-03-31,1005,Tablet,Electronics,1,14180,Debit Card,Kolkata,14180
+ORD0456,2026-04-01,1103,Headphones,Accessories,3,3341,Credit Card,Bangalore,10023
+ORD0457,2026-04-02,1196,Tablet,Electronics,3,36343,Credit Card,Jaipur,109029
+ORD0458,2026-04-03,1006,Mouse,Accessories,3,384,Credit Card,Jaipur,1152
+ORD0459,2026-04-04,1109,Smartwatch,Electronics,3,7540,Cash on Delivery,Pune,22620
+ORD0460,2026-04-05,1116,Monitor,Computers,2,24944,Credit Card,Jaipur,49888
+ORD0461,2026-04-06,1094,Laptop,Computers,4,45304,Cash on Delivery,Pune,181216
+ORD0462,2026-04-07,1047,Tablet,Electronics,5,14758,Debit Card,Jaipur,73790
+ORD0463,2026-04-08,1099,Mouse,Accessories,3,926,Debit Card,Bangalore,2778
+ORD0464,2026-04-09,1055,Headphones,Accessories,3,4659,Cash on Delivery,Pune,13977
+ORD0465,2026-04-10,1168,Headphones,Accessories,3,3914,UPI,Mumbai,11742
+ORD0466,2026-04-11,1052,Laptop,Computers,4,66658,Credit Card,Pune,266632
+ORD0467,2026-04-12,1144,Keyboard,Accessories,1,1418,Credit Card,Pune,1418
+ORD0468,2026-04-13,1013,Tablet,Electronics,1,11375,Credit Card,Bangalore,11375
+ORD0469,2026-04-14,1114,Smartwatch,Electronics,2,2681,Cash on Delivery,Bangalore,5362
+ORD0470,2026-04-15,1124,Mobile,Electronics,1,32092,Debit Card,Pune,32092
+ORD0471,2026-04-16,1106,Headphones,Accessories,3,990,Credit Card,Kolkata,2970
+ORD0472,2026-04-17,1158,Smartwatch,Electronics,3,5229,Debit Card,Delhi,15687
+ORD0473,2026-04-18,1147,Smartwatch,Electronics,3,7474,Credit Card,Kolkata,22422
+ORD0474,2026-04-19,1145,Monitor,Computers,2,24918,Credit Card,Bangalore,49836
+ORD0475,2026-04-20,1120,Smartwatch,Electronics,3,4796,Cash on Delivery,Kolkata,14388
+ORD0476,2026-04-21,1063,Smartwatch,Electronics,1,3440,UPI,Kolkata,3440
+ORD0477,2026-04-22,1019,Monitor,Computers,4,6882,Cash on Delivery,Chennai,27528
+ORD0478,2026-04-23,1092,Headphones,Accessories,4,3487,Credit Card,Chennai,13948
+ORD0479,2026-04-24,1058,Smartwatch,Electronics,5,7085,Credit Card,Mumbai,35425
+ORD0480,2026-04-25,1183,Keyboard,Accessories,1,1826,UPI,Jaipur,1826
+ORD0481,2026-04-26,1090,Keyboard,Accessories,3,1179,Debit Card,Pune,3537
+ORD0482,2026-04-27,1117,Mouse,Accessories,4,734,Debit Card,Delhi,2936
+ORD0483,2026-04-28,1062,Monitor,Computers,1,22065,Credit Card,Mumbai,22065
+ORD0484,2026-04-29,1023,Mouse,Accessories,4,1458,Debit Card,Pune,5832
+ORD0485,2026-04-30,1127,Monitor,Computers,3,6073,Credit Card,Kolkata,18219
+ORD0486,2026-05-01,1137,Tablet,Electronics,4,23743,UPI,Bangalore,94972
+ORD0487,2026-05-02,1140,Tablet,Electronics,5,28771,UPI,Chennai,143855
+ORD0488,2026-05-03,1129,Smartwatch,Electronics,5,4193,Credit Card,Hyderabad,20965
+ORD0489,2026-05-04,1058,Mobile,Electronics,4,39320,UPI,Delhi,157280
+ORD0490,2026-05-05,1122,Tablet,Electronics,1,14340,Cash on Delivery,Kolkata,14340
+ORD0491,2026-05-06,1001,Mobile,Electronics,1,44924,Cash on Delivery,Hyderabad,44924
+ORD0492,2026-05-07,1034,Tablet,Electronics,1,26184,UPI,Chennai,26184
+ORD0493,2026-05-08,1096,Laptop,Computers,4,75734,Credit Card,Kolkata,302936
+ORD0494,2026-05-09,1126,Tablet,Electronics,1,12580,Credit Card,Jaipur,12580
+ORD0495,2026-05-10,1118,Mouse,Accessories,3,1413,UPI,Jaipur,4239
+ORD0496,2026-05-11,1048,Headphones,Accessories,5,4891,Debit Card,Hyderabad,24455
+ORD0497,2026-05-12,1089,Smartwatch,Electronics,3,3659,Cash on Delivery,Bangalore,10977
+ORD0498,2026-05-13,1117,Mouse,Accessories,1,1912,Debit Card,Kolkata,1912
+ORD0499,2026-05-14,1129,Headphones,Accessories,3,3748,Credit Card,Pune,11244
+ORD0500,2026-05-15,1016,Keyboard,Accessories,1,2890,Credit Card,Kolkata,2890
+ORD0501,2026-05-16,1189,Mouse,Accessories,4,1983,Debit Card,Bangalore,7932
+ORD0502,2026-05-17,1192,Keyboard,Accessories,3,2648,UPI,Kolkata,7944
+ORD0503,2026-05-18,1191,Mobile,Electronics,4,22021,Debit Card,Hyderabad,88084
+ORD0504,2026-05-19,1069,Mobile,Electronics,4,16772,Debit Card,Bangalore,67088
+ORD0505,2026-05-20,1022,Laptop,Computers,2,36627,Cash on Delivery,Chennai,73254
+ORD0506,2026-05-21,1093,Tablet,Electronics,1,21664,Cash on Delivery,Delhi,21664
+ORD0507,2026-05-22,1195,Mouse,Accessories,5,327,Debit Card,Bangalore,1635
+ORD0508,2026-05-23,1076,Keyboard,Accessories,1,2485,Debit Card,Kolkata,2485
+ORD0509,2026-05-24,1154,Headphones,Accessories,5,4653,Credit Card,Chennai,23265
+ORD0510,2026-05-25,1144,Mobile,Electronics,1,18488,Cash on Delivery,Delhi,18488
+ORD0511,2026-05-26,1179,Tablet,Electronics,4,12181,Cash on Delivery,Jaipur,48724
+ORD0512,2026-05-27,1086,Mobile,Electronics,3,49932,Credit Card,Pune,149796
+ORD0513,2026-05-28,1185,Headphones,Accessories,3,3097,UPI,Hyderabad,9291
+ORD0514,2026-05-29,1029,Tablet,Electronics,2,10901,Cash on Delivery,Kolkata,21802
+ORD0515,2026-05-30,1069,Tablet,Electronics,5,32444,Cash on Delivery,Kolkata,162220
+ORD0516,2026-05-31,1047,Keyboard,Accessories,5,1598,UPI,Jaipur,7990
+ORD0517,2026-06-01,1094,Keyboard,Accessories,5,2177,Cash on Delivery,Pune,10885
+ORD0518,2026-06-02,1190,Mouse,Accessories,4,1133,Cash on Delivery,Jaipur,4532
+ORD0519,2026-06-03,1197,Mouse,Accessories,5,1491,UPI,Mumbai,7455
+ORD0520,2026-06-04,1144,Monitor,Computers,3,18058,UPI,Jaipur,54174
+ORD0521,2026-06-05,1176,Smartwatch,Electronics,4,7122,Debit Card,Chennai,28488
+ORD0522,2026-06-06,1085,Monitor,Computers,1,6378,Credit Card,Delhi,6378
+ORD0523,2026-06-07,1039,Laptop,Computers,5,52632,Credit Card,Kolkata,263160
+ORD0524,2026-06-08,1100,Mobile,Electronics,5,38311,UPI,Jaipur,191555
+ORD0525,2026-06-09,1033,Mouse,Accessories,1,1854,UPI,Kolkata,1854
+ORD0526,2026-06-10,1101,Keyboard,Accessories,5,645,Cash on Delivery,Bangalore,3225
+ORD0527,2026-06-11,1023,Headphones,Accessories,1,1764,Debit Card,Pune,1764
+ORD0528,2026-06-12,1010,Keyboard,Accessories,4,2407,Debit Card,Jaipur,9628
+ORD0529,2026-06-13,1069,Mobile,Electronics,3,17036,UPI,Delhi,51108
+ORD0530,2026-06-14,1100,Monitor,Computers,1,11487,Cash on Delivery,Chennai,11487
+ORD0531,2026-06-15,1034,Keyboard,Accessories,2,2272,Cash on Delivery,Mumbai,4544
+ORD0532,2026-06-16,1180,Smartwatch,Electronics,1,2558,Credit Card,Kolkata,2558
+ORD0533,2026-06-17,1138,Laptop,Computers,5,57499,Credit Card,Pune,287495
+ORD0534,2026-06-18,1147,Mobile,Electronics,4,47016,Cash on Delivery,Hyderabad,188064
+ORD0535,2026-06-19,1186,Monitor,Computers,4,23860,Credit Card,Delhi,95440
+ORD0536,2026-06-20,1096,Smartwatch,Electronics,1,6103,UPI,Hyderabad,6103
+ORD0537,2026-06-21,1001,Headphones,Accessories,3,3697,Cash on Delivery,Delhi,11091
+ORD0538,2026-06-22,1069,Monitor,Computers,2,24937,Credit Card,Delhi,49874
+ORD0539,2026-06-23,1004,Tablet,Electronics,4,22632,Debit Card,Chennai,90528
+ORD0540,2026-06-24,1016,Smartwatch,Electronics,5,11453,Cash on Delivery,Chennai,57265
+ORD0541,2026-06-25,1024,Smartwatch,Electronics,5,1720,Cash on Delivery,Chennai,8600
+ORD0542,2026-06-26,1080,Laptop,Computers,3,39818,Debit Card,Jaipur,119454
+ORD0543,2026-06-27,1002,Mobile,Electronics,4,17349,UPI,Bangalore,69396
+ORD0544,2026-06-28,1128,Headphones,Accessories,1,3388,Debit Card,Delhi,3388
+ORD0545,2026-06-29,1160,Laptop,Computers,5,77624,Cash on Delivery,Pune,388120
+ORD0546,2026-06-30,1084,Monitor,Computers,3,9576,UPI,Hyderabad,28728
+ORD0547,2026-07-01,1152,Laptop,Computers,4,53255,Credit Card,Chennai,213020
+ORD0548,2026-07-02,1140,Smartwatch,Electronics,4,9415,Credit Card,Jaipur,37660
+ORD0549,2026-07-03,1178,Mobile,Electronics,4,11462,Credit Card,Chennai,45848
+ORD0550,2026-07-04,1163,Mouse,Accessories,4,1725,Cash on Delivery,Hyderabad,6900
+ORD0551,2026-07-05,1124,Laptop,Computers,4,50905,Debit Card,Hyderabad,203620
+ORD0552,2026-07-06,1033,Tablet,Electronics,5,34920,UPI,Kolkata,174600
+ORD0553,2026-07-07,1161,Laptop,Computers,3,51252,Credit Card,Delhi,153756
+ORD0554,2026-07-08,1189,Monitor,Computers,4,13236,UPI,Chennai,52944
+ORD0555,2026-07-09,1179,Monitor,Computers,2,12813,Cash on Delivery,Hyderabad,25626
+ORD0556,2026-07-10,1171,Headphones,Accessories,2,2568,Credit Card,Bangalore,5136
+ORD0557,2026-07-11,1101,Monitor,Computers,3,10753,Cash on Delivery,Bangalore,32259
+ORD0558,2026-07-12,1012,Keyboard,Accessories,1,2387,Debit Card,Chennai,2387
+ORD0559,2026-07-13,1067,Mobile,Electronics,1,16191,Cash on Delivery,Jaipur,16191
+ORD0560,2026-07-14,1065,Mobile,Electronics,1,27898,Cash on Delivery,Hyderabad,27898
+ORD0561,2026-07-15,1161,Mouse,Accessories,2,850,Debit Card,Kolkata,1700
+ORD0562,2026-07-16,1168,Mouse,Accessories,1,586,UPI,Delhi,586
+ORD0563,2026-07-17,1074,Mobile,Electronics,5,11001,Debit Card,Delhi,55005
+ORD0564,2026-07-18,1043,Tablet,Electronics,4,27417,Debit Card,Jaipur,109668
+ORD0565,2026-07-19,1044,Mouse,Accessories,2,841,Cash on Delivery,Kolkata,1682
+ORD0566,2026-07-20,1029,Headphones,Accessories,3,2540,UPI,Delhi,7620
+ORD0567,2026-07-21,1141,Monitor,Computers,3,9476,Credit Card,Kolkata,28428
+ORD0568,2026-07-22,1012,Mobile,Electronics,4,40024,Debit Card,Mumbai,160096
+ORD0569,2026-07-23,1095,Smartwatch,Electronics,2,1978,UPI,Chennai,3956
+ORD0570,2026-07-24,1046,Mouse,Accessories,1,314,Debit Card,Delhi,314
+ORD0571,2026-07-25,1130,Mobile,Electronics,1,10515,Debit Card,Bangalore,10515
+ORD0572,2026-07-26,1035,Keyboard,Accessories,5,690,Debit Card,Hyderabad,3450
+ORD0573,2026-07-27,1081,Laptop,Computers,5,36191,Debit Card,Kolkata,180955
+ORD0574,2026-07-28,1090,Monitor,Computers,1,15860,Cash on Delivery,Kolkata,15860
+ORD0575,2026-07-29,1008,Mobile,Electronics,3,16297,UPI,Pune,48891
+ORD0576,2026-07-30,1093,Laptop,Computers,3,62856,UPI,Jaipur,188568
+ORD0577,2026-07-31,1154,Mouse,Accessories,5,571,UPI,Pune,2855
+ORD0578,2026-08-01,1090,Laptop,Computers,4,43334,Debit Card,Delhi,173336
+ORD0579,2026-08-02,1162,Monitor,Computers,1,11008,Cash on Delivery,Pune,11008
+ORD0580,2026-08-03,1115,Mobile,Electronics,5,17987,Debit Card,Pune,89935
+ORD0581,2026-08-04,1105,Keyboard,Accessories,5,1592,Debit Card,Mumbai,7960
+ORD0582,2026-08-05,1135,Tablet,Electronics,1,13332,UPI,Kolkata,13332
+ORD0583,2026-08-06,1196,Mouse,Accessories,1,1087,Debit Card,Bangalore,1087
+ORD0584,2026-08-07,1058,Mobile,Electronics,3,48990,Credit Card,Jaipur,146970
+ORD0585,2026-08-08,1114,Monitor,Computers,4,14873,Debit Card,Bangalore,59492
+ORD0586,2026-08-09,1075,Mouse,Accessories,4,922,Credit Card,Mumbai,3688
+ORD0587,2026-08-10,1157,Headphones,Accessories,1,4341,Debit Card,Mumbai,4341
+ORD0588,2026-08-11,1120,Laptop,Computers,2,71444,Cash on Delivery,Pune,142888
+ORD0589,2026-08-12,1164,Tablet,Electronics,5,12572,Cash on Delivery,Chennai,62860
+ORD0590,2026-08-13,1021,Monitor,Computers,5,11915,UPI,Kolkata,59575
+ORD0591,2026-08-14,1164,Headphones,Accessories,1,3760,Debit Card,Hyderabad,3760
+ORD0592,2026-08-15,1138,Smartwatch,Electronics,2,6714,Credit Card,Kolkata,13428
+ORD0593,2026-08-16,1101,Mobile,Electronics,3,47480,Credit Card,Hyderabad,142440
+ORD0594,2026-08-17,1152,Keyboard,Accessories,1,1531,Debit Card,Pune,1531
+ORD0595,2026-08-18,1192,Mouse,Accessories,1,366,Credit Card,Hyderabad,366
+ORD0596,2026-08-19,1177,Laptop,Computers,5,42533,Cash on Delivery,Mumbai,212665
+ORD0597,2026-08-20,1099,Mouse,Accessories,1,1067,Credit Card,Bangalore,1067
+ORD0598,2026-08-21,1036,Tablet,Electronics,1,14616,UPI,Hyderabad,14616
+ORD0599,2026-08-22,1096,Mobile,Electronics,1,48498,Cash on Delivery,Kolkata,48498
+ORD0600,2026-08-23,1152,Mouse,Accessories,5,784,Cash on Delivery,Jaipur,3920
+ORD0601,2026-08-24,1151,Laptop,Computers,3,46772,Cash on Delivery,Pune,140316
+ORD0602,2026-08-25,1190,Mobile,Electronics,3,33849,Debit Card,Chennai,101547
+ORD0603,2026-08-26,1037,Mouse,Accessories,1,1487,Debit Card,Pune,1487
+ORD0604,2026-08-27,1012,Keyboard,Accessories,5,875,Cash on Delivery,Delhi,4375
+ORD0605,2026-08-28,1113,Monitor,Computers,3,17940,Debit Card,Pune,53820
+ORD0606,2026-08-29,1183,Mobile,Electronics,3,26932,Credit Card,Mumbai,80796
+ORD0607,2026-08-30,1013,Monitor,Computers,3,19643,Debit Card,Bangalore,58929
+ORD0608,2026-08-31,1023,Smartwatch,Electronics,5,1698,Debit Card,Bangalore,8490
+ORD0609,2026-09-01,1099,Mobile,Electronics,5,37777,Cash on Delivery,Jaipur,188885
+ORD0610,2026-09-02,1105,Keyboard,Accessories,1,2281,UPI,Hyderabad,2281
+ORD0611,2026-09-03,1030,Monitor,Computers,4,21955,UPI,Mumbai,87820
+ORD0612,2026-09-04,1017,Headphones,Accessories,3,1290,UPI,Delhi,3870
+ORD0613,2026-09-05,1113,Laptop,Computers,4,77598,Credit Card,Mumbai,310392
+ORD0614,2026-09-06,1062,Headphones,Accessories,5,2331,Debit Card,Pune,11655
+ORD0615,2026-09-07,1084,Mouse,Accessories,5,1810,UPI,Mumbai,9050
+ORD0616,2026-09-08,1112,Keyboard,Accessories,5,1674,Cash on Delivery,Mumbai,8370
+ORD0617,2026-09-09,1086,Headphones,Accessories,4,4240,UPI,Jaipur,16960
+ORD0618,2026-09-10,1141,Mobile,Electronics,5,10178,UPI,Delhi,50890
+ORD0619,2026-09-11,1187,Mouse,Accessories,1,496,Debit Card,Pune,496
+ORD0620,2026-09-12,1019,Mouse,Accessories,5,1034,Debit Card,Chennai,5170
+ORD0621,2026-09-13,1177,Headphones,Accessories,2,1298,Debit Card,Jaipur,2596
+ORD0622,2026-09-14,1100,Smartwatch,Electronics,4,9101,Credit Card,Chennai,36404
+ORD0623,2026-09-15,1140,Headphones,Accessories,2,1287,Credit Card,Jaipur,2574
+ORD0624,2026-09-16,1189,Smartwatch,Electronics,5,4295,UPI,Bangalore,21475
+ORD0625,2026-09-17,1147,Keyboard,Accessories,1,708,Debit Card,Kolkata,708
+ORD0626,2026-09-18,1076,Laptop,Computers,3,72356,UPI,Jaipur,217068
+ORD0627,2026-09-19,1009,Headphones,Accessories,5,3584,Cash on Delivery,Hyderabad,17920
+ORD0628,2026-09-20,1199,Tablet,Electronics,1,21110,Cash on Delivery,Mumbai,21110
+ORD0629,2026-09-21,1028,Smartwatch,Electronics,4,2231,Debit Card,Bangalore,8924
+ORD0630,2026-09-22,1128,Headphones,Accessories,2,1629,Debit Card,Delhi,3258
+ORD0631,2026-09-23,1052,Monitor,Computers,2,6605,Cash on Delivery,Chennai,13210
+ORD0632,2026-09-24,1083,Mobile,Electronics,2,21970,Debit Card,Kolkata,43940
+ORD0633,2026-09-25,1111,Tablet,Electronics,4,20937,Credit Card,Kolkata,83748
+ORD0634,2026-09-26,1144,Tablet,Electronics,1,21362,Credit Card,Jaipur,21362
+ORD0635,2026-09-27,1117,Smartwatch,Electronics,4,4433,Debit Card,Mumbai,17732
+ORD0636,2026-09-28,1069,Monitor,Computers,2,20187,Cash on Delivery,Delhi,40374
+ORD0637,2026-09-29,1099,Monitor,Computers,5,10074,UPI,Hyderabad,50370
+ORD0638,2026-09-30,1140,Mouse,Accessories,3,1255,Debit Card,Delhi,3765
+ORD0639,2026-10-01,1025,Smartwatch,Electronics,4,2990,Debit Card,Mumbai,11960
+ORD0640,2026-10-02,1180,Laptop,Computers,4,35893,UPI,Hyderabad,143572
+ORD0641,2026-10-03,1123,Mobile,Electronics,1,44158,Debit Card,Delhi,44158
+ORD0642,2026-10-04,1053,Keyboard,Accessories,1,643,UPI,Hyderabad,643
+ORD0643,2026-10-05,1151,Tablet,Electronics,4,30863,Cash on Delivery,Jaipur,123452
+ORD0644,2026-10-06,1144,Keyboard,Accessories,2,2763,Credit Card,Jaipur,5526
+ORD0645,2026-10-07,1057,Headphones,Accessories,3,3932,Cash on Delivery,Mumbai,11796
+ORD0646,2026-10-08,1039,Headphones,Accessories,1,2871,Credit Card,Mumbai,2871
+ORD0647,2026-10-09,1109,Keyboard,Accessories,2,716,UPI,Hyderabad,1432
+ORD0648,2026-10-10,1181,Headphones,Accessories,5,2015,Credit Card,Pune,10075
+ORD0649,2026-10-11,1042,Laptop,Computers,1,66670,Cash on Delivery,Bangalore,66670
+ORD0650,2026-10-12,1186,Monitor,Computers,2,20906,Credit Card,Kolkata,41812
+ORD0651,2026-10-13,1167,Headphones,Accessories,2,3417,UPI,Delhi,6834
+ORD0652,2026-10-14,1142,Mouse,Accessories,3,1935,Credit Card,Delhi,5805
+ORD0653,2026-10-15,1122,Headphones,Accessories,3,2852,Debit Card,Pune,8556
+ORD0654,2026-10-16,1133,Mobile,Electronics,5,42728,Cash on Delivery,Pune,213640
+ORD0655,2026-10-17,1163,Laptop,Computers,2,52551,Debit Card,Pune,105102
+ORD0656,2026-10-18,1075,Mobile,Electronics,2,31493,UPI,Chennai,62986
+ORD0657,2026-10-19,1146,Mobile,Electronics,3,30711,Credit Card,Chennai,92133
+ORD0658,2026-10-20,1076,Mouse,Accessories,1,1907,Debit Card,Hyderabad,1907
+ORD0659,2026-10-21,1009,Laptop,Computers,1,71561,Debit Card,Chennai,71561
+ORD0660,2026-10-22,1074,Laptop,Computers,4,44947,Credit Card,Jaipur,179788
+ORD0661,2026-10-23,1186,Smartwatch,Electronics,3,8238,Credit Card,Jaipur,24714
+ORD0662,2026-10-24,1145,Laptop,Computers,4,36577,Cash on Delivery,Mumbai,146308
+ORD0663,2026-10-25,1007,Laptop,Computers,3,77256,Debit Card,Kolkata,231768
+ORD0664,2026-10-26,1174,Laptop,Computers,5,63350,Debit Card,Hyderabad,316750
+ORD0665,2026-10-27,1141,Mouse,Accessories,2,472,UPI,Kolkata,944
+ORD0666,2026-10-28,1168,Headphones,Accessories,5,1472,Cash on Delivery,Delhi,7360
+ORD0667,2026-10-29,1170,Smartwatch,Electronics,3,2530,UPI,Bangalore,7590
+ORD0668,2026-10-30,1137,Mobile,Electronics,2,41898,Debit Card,Mumbai,83796
+ORD0669,2026-10-31,1178,Laptop,Computers,1,50881,UPI,Delhi,50881
+ORD0670,2026-11-01,1027,Tablet,Electronics,1,20785,Debit Card,Delhi,20785
+ORD0671,2026-11-02,1122,Headphones,Accessories,4,4492,Debit Card,Hyderabad,17968
+ORD0672,2026-11-03,1194,Headphones,Accessories,3,1413,UPI,Pune,4239
+ORD0673,2026-11-04,1005,Mobile,Electronics,3,16358,UPI,Pune,49074
+ORD0674,2026-11-05,1029,Mouse,Accessories,1,433,Credit Card,Kolkata,433
+ORD0675,2026-11-06,1165,Keyboard,Accessories,5,2832,Credit Card,Mumbai,14160
+ORD0676,2026-11-07,1166,Keyboard,Accessories,2,2444,Credit Card,Pune,4888
+ORD0677,2026-11-08,1083,Headphones,Accessories,5,1962,Debit Card,Delhi,9810
+ORD0678,2026-11-09,1136,Monitor,Computers,5,20511,UPI,Pune,102555
+ORD0679,2026-11-10,1109,Monitor,Computers,1,15570,Cash on Delivery,Chennai,15570
+ORD0680,2026-11-11,1065,Mobile,Electronics,1,25474,Debit Card,Pune,25474
+ORD0681,2026-11-12,1086,Keyboard,Accessories,1,1807,Cash on Delivery,Delhi,1807
+ORD0682,2026-11-13,1145,Headphones,Accessories,4,1689,UPI,Kolkata,6756
+ORD0683,2026-11-14,1071,Mouse,Accessories,5,1512,Debit Card,Hyderabad,7560
+ORD0684,2026-11-15,1045,Keyboard,Accessories,3,2625,Cash on Delivery,Mumbai,7875
+ORD0685,2026-11-16,1132,Headphones,Accessories,2,1187,Cash on Delivery,Bangalore,2374
+ORD0686,2026-11-17,1036,Headphones,Accessories,4,1707,Credit Card,Pune,6828
+ORD0687,2026-11-18,1070,Laptop,Computers,3,75157,Credit Card,Jaipur,225471
+ORD0688,2026-11-19,1159,Mouse,Accessories,5,1126,Credit Card,Jaipur,5630
+ORD0689,2026-11-20,1019,Laptop,Computers,1,57706,Debit Card,Kolkata,57706
+ORD0690,2026-11-21,1189,Mobile,Electronics,5,42479,UPI,Delhi,212395
+ORD0691,2026-11-22,1108,Laptop,Computers,2,40178,UPI,Bangalore,80356
+ORD0692,2026-11-23,1182,Tablet,Electronics,4,25240,Credit Card,Bangalore,100960
+ORD0693,2026-11-24,1167,Laptop,Computers,4,61220,Credit Card,Chennai,244880
+ORD0694,2026-11-25,1091,Tablet,Electronics,2,13968,Credit Card,Bangalore,27936
+ORD0695,2026-11-26,1090,Keyboard,Accessories,3,690,Cash on Delivery,Jaipur,2070
+ORD0696,2026-11-27,1019,Monitor,Computers,3,18511,Credit Card,Hyderabad,55533
+ORD0697,2026-11-28,1039,Smartwatch,Electronics,4,2835,Cash on Delivery,Delhi,11340
+ORD0698,2026-11-29,1126,Smartwatch,Electronics,4,9681,UPI,Delhi,38724
+ORD0699,2026-11-30,1195,Headphones,Accessories,1,3606,Debit Card,Pune,3606
+ORD0700,2026-12-01,1173,Smartwatch,Electronics,3,1878,Debit Card,Pune,5634
+ORD0701,2026-12-02,1141,Tablet,Electronics,2,39058,Debit Card,Pune,78116
+ORD0702,2026-12-03,1126,Mouse,Accessories,3,536,Debit Card,Jaipur,1608
+ORD0703,2026-12-04,1058,Laptop,Computers,1,35615,Cash on Delivery,Jaipur,35615
+ORD0704,2026-12-05,1148,Tablet,Electronics,4,28714,Cash on Delivery,Kolkata,114856
+ORD0705,2026-12-06,1200,Mouse,Accessories,4,300,Credit Card,Jaipur,1200
+ORD0706,2026-12-07,1061,Monitor,Computers,1,23138,Cash on Delivery,Jaipur,23138
+ORD0707,2026-12-08,1127,Smartwatch,Electronics,2,1963,Credit Card,Jaipur,3926
+ORD0708,2026-12-09,1105,Monitor,Computers,4,14158,Credit Card,Jaipur,56632
+ORD0709,2026-12-10,1167,Smartwatch,Electronics,5,5767,Debit Card,Hyderabad,28835
+ORD0710,2026-12-11,1001,Laptop,Computers,4,38158,Cash on Delivery,Jaipur,152632
+ORD0711,2026-12-12,1131,Mobile,Electronics,5,30008,Cash on Delivery,Kolkata,150040
+ORD0712,2026-12-13,1092,Laptop,Computers,1,39938,Credit Card,Bangalore,39938
+ORD0713,2026-12-14,1190,Keyboard,Accessories,1,1821,Credit Card,Bangalore,1821
+ORD0714,2026-12-15,1191,Tablet,Electronics,4,32388,UPI,Chennai,129552
+ORD0715,2026-12-16,1113,Headphones,Accessories,3,1189,UPI,Hyderabad,3567
+ORD0716,2026-12-17,1153,Mobile,Electronics,5,15603,Credit Card,Pune,78015
+ORD0717,2026-12-18,1056,Laptop,Computers,2,69980,UPI,Mumbai,139960
+ORD0718,2026-12-19,1161,Mouse,Accessories,4,682,UPI,Jaipur,2728
+ORD0719,2026-12-20,1166,Mobile,Electronics,2,38386,Credit Card,Chennai,76772
+ORD0720,2026-12-21,1117,Tablet,Electronics,4,21695,Credit Card,Mumbai,86780
+ORD0721,2026-12-22,1134,Smartwatch,Electronics,3,2912,Cash on Delivery,Kolkata,8736
+ORD0722,2026-12-23,1058,Mobile,Electronics,3,24559,Credit Card,Bangalore,73677
+ORD0723,2026-12-24,1044,Smartwatch,Electronics,3,7646,Credit Card,Chennai,22938
+ORD0724,2026-12-25,1173,Tablet,Electronics,3,10371,Debit Card,Kolkata,31113
+ORD0725,2026-12-26,1160,Laptop,Computers,1,73333,Cash on Delivery,Chennai,73333
+ORD0726,2026-12-27,1173,Tablet,Electronics,1,18802,Cash on Delivery,Delhi,18802
+ORD0727,2026-12-28,1061,Mobile,Electronics,5,18307,Cash on Delivery,Kolkata,91535
+ORD0728,2026-12-29,1047,Mouse,Accessories,2,1593,Debit Card,Bangalore,3186
+ORD0729,2026-12-30,1149,Monitor,Computers,4,5446,Credit Card,Bangalore,21784
+ORD0730,2026-12-31,1080,Mobile,Electronics,4,44159,Cash on Delivery,Hyderabad,176636
+ORD0731,2027-01-01,1118,Tablet,Electronics,1,21516,Cash on Delivery,Chennai,21516
+ORD0732,2027-01-02,1164,Monitor,Computers,4,22724,UPI,Jaipur,90896
+ORD0733,2027-01-03,1147,Tablet,Electronics,1,39086,Cash on Delivery,Bangalore,39086
+ORD0734,2027-01-04,1020,Mouse,Accessories,5,1418,Credit Card,Chennai,7090
+ORD0735,2027-01-05,1185,Tablet,Electronics,2,29323,Credit Card,Hyderabad,58646
+ORD0736,2027-01-06,1146,Laptop,Computers,5,79659,UPI,Jaipur,398295
+ORD0737,2027-01-07,1047,Headphones,Accessories,3,1573,Cash on Delivery,Kolkata,4719
+ORD0738,2027-01-08,1049,Smartwatch,Electronics,3,6313,Cash on Delivery,Hyderabad,18939
+ORD0739,2027-01-09,1014,Smartwatch,Electronics,3,5069,Cash on Delivery,Delhi,15207
+ORD0740,2027-01-10,1143,Mobile,Electronics,5,15454,Debit Card,Jaipur,77270
+ORD0741,2027-01-11,1159,Headphones,Accessories,4,3650,Cash on Delivery,Chennai,14600
+ORD0742,2027-01-12,1001,Tablet,Electronics,2,36181,Credit Card,Bangalore,72362
+ORD0743,2027-01-13,1117,Mouse,Accessories,3,1350,Credit Card,Bangalore,4050
+ORD0744,2027-01-14,1054,Mobile,Electronics,3,49182,Debit Card,Chennai,147546
+ORD0745,2027-01-15,1118,Tablet,Electronics,3,14657,Debit Card,Chennai,43971
+ORD0746,2027-01-16,1003,Monitor,Computers,2,15486,Cash on Delivery,Chennai,30972
+ORD0747,2027-01-17,1144,Keyboard,Accessories,3,886,UPI,Pune,2658
+ORD0748,2027-01-18,1185,Tablet,Electronics,2,31181,Debit Card,Jaipur,62362
+ORD0749,2027-01-19,1012,Headphones,Accessories,3,1483,Debit Card,Bangalore,4449
+ORD0750,2027-01-20,1074,Mobile,Electronics,5,31991,Cash on Delivery,Jaipur,159955
+ORD0751,2027-01-21,1016,Headphones,Accessories,5,851,Cash on Delivery,Hyderabad,4255
+ORD0752,2027-01-22,1200,Mobile,Electronics,2,19916,Debit Card,Bangalore,39832
+ORD0753,2027-01-23,1102,Tablet,Electronics,5,20143,UPI,Pune,100715
+ORD0754,2027-01-24,1152,Laptop,Computers,2,60855,Debit Card,Chennai,121710
+ORD0755,2027-01-25,1156,Monitor,Computers,5,20581,Cash on Delivery,Delhi,102905
+ORD0756,2027-01-26,1117,Tablet,Electronics,5,11907,Cash on Delivery,Chennai,59535
+ORD0757,2027-01-27,1008,Smartwatch,Electronics,2,8424,Debit Card,Kolkata,16848
+ORD0758,2027-01-28,1122,Headphones,Accessories,4,1524,UPI,Chennai,6096
+ORD0759,2027-01-29,1092,Keyboard,Accessories,5,1045,Debit Card,Pune,5225
+ORD0760,2027-01-30,1164,Keyboard,Accessories,3,1969,Debit Card,Jaipur,5907
+ORD0761,2027-01-31,1090,Mouse,Accessories,4,378,Cash on Delivery,Bangalore,1512
+ORD0762,2027-02-01,1136,Mobile,Electronics,2,36957,UPI,Chennai,73914
+ORD0763,2027-02-02,1186,Headphones,Accessories,4,1388,Credit Card,Bangalore,5552
+ORD0764,2027-02-03,1060,Mouse,Accessories,1,1672,UPI,Mumbai,1672
+ORD0765,2027-02-04,1178,Headphones,Accessories,1,1605,Debit Card,Hyderabad,1605
+ORD0766,2027-02-05,1028,Smartwatch,Electronics,5,3490,Debit Card,Jaipur,17450
+ORD0767,2027-02-06,1101,Mobile,Electronics,5,15596,Debit Card,Bangalore,77980
+ORD0768,2027-02-07,1041,Tablet,Electronics,3,26374,UPI,Delhi,79122
+ORD0769,2027-02-08,1192,Tablet,Electronics,4,30382,Cash on Delivery,Hyderabad,121528
+ORD0770,2027-02-09,1155,Keyboard,Accessories,1,1420,Debit Card,Kolkata,1420
+ORD0771,2027-02-10,1191,Tablet,Electronics,5,31029,Debit Card,Kolkata,155145
+ORD0772,2027-02-11,1145,Tablet,Electronics,4,28445,UPI,Delhi,113780
+ORD0773,2027-02-12,1161,Smartwatch,Electronics,5,5987,Credit Card,Chennai,29935
+ORD0774,2027-02-13,1157,Laptop,Computers,5,49645,Credit Card,Hyderabad,248225
+ORD0775,2027-02-14,1141,Keyboard,Accessories,1,2933,Cash on Delivery,Bangalore,2933
+ORD0776,2027-02-15,1046,Mouse,Accessories,1,1532,Cash on Delivery,Hyderabad,1532
+ORD0777,2027-02-16,1035,Monitor,Computers,5,18668,Debit Card,Chennai,93340
+ORD0778,2027-02-17,1134,Laptop,Computers,2,50960,UPI,Pune,101920
+ORD0779,2027-02-18,1082,Mouse,Accessories,5,1891,Debit Card,Jaipur,9455
+ORD0780,2027-02-19,1115,Mobile,Electronics,5,21357,Cash on Delivery,Delhi,106785
+ORD0781,2027-02-20,1197,Laptop,Computers,3,72203,UPI,Chennai,216609
+ORD0782,2027-02-21,1047,Smartwatch,Electronics,3,4144,UPI,Pune,12432
+ORD0783,2027-02-22,1153,Mouse,Accessories,3,1768,Cash on Delivery,Hyderabad,5304
+ORD0784,2027-02-23,1194,Mobile,Electronics,2,24626,Credit Card,Hyderabad,49252
+ORD0785,2027-02-24,1010,Keyboard,Accessories,2,2853,Credit Card,Chennai,5706
+ORD0786,2027-02-25,1056,Monitor,Computers,5,24065,UPI,Bangalore,120325
+ORD0787,2027-02-26,1030,Mobile,Electronics,3,45967,Debit Card,Hyderabad,137901
+ORD0788,2027-02-27,1109,Tablet,Electronics,2,16768,Credit Card,Bangalore,33536
+ORD0789,2027-02-28,1005,Headphones,Accessories,1,1438,Debit Card,Bangalore,1438
+ORD0790,2027-03-01,1119,Mobile,Electronics,5,33824,Credit Card,Jaipur,169120
+ORD0791,2027-03-02,1033,Mobile,Electronics,4,46993,Credit Card,Bangalore,187972
+ORD0792,2027-03-03,1118,Monitor,Computers,5,21980,Debit Card,Mumbai,109900
+ORD0793,2027-03-04,1065,Headphones,Accessories,4,2005,Cash on Delivery,Jaipur,8020
+ORD0794,2027-03-05,1146,Tablet,Electronics,3,19053,Credit Card,Pune,57159
+ORD0795,2027-03-06,1177,Mouse,Accessories,4,1713,Credit Card,Pune,6852
+ORD0796,2027-03-07,1011,Mouse,Accessories,3,892,Debit Card,Hyderabad,2676
+ORD0797,2027-03-08,1085,Mobile,Electronics,1,39670,Cash on Delivery,Hyderabad,39670
+ORD0798,2027-03-09,1026,Smartwatch,Electronics,4,7968,Credit Card,Bangalore,31872
+ORD0799,2027-03-10,1063,Smartwatch,Electronics,5,8736,Credit Card,Jaipur,43680
+ORD0800,2027-03-11,1086,Headphones,Accessories,3,4231,Cash on Delivery,Jaipur,12693
+ORD0801,2027-03-12,1059,Headphones,Accessories,5,2051,Credit Card,Mumbai,10255
+ORD0802,2027-03-13,1027,Tablet,Electronics,2,25154,Cash on Delivery,Bangalore,50308
+ORD0803,2027-03-14,1177,Monitor,Computers,3,18799,Cash on Delivery,Mumbai,56397
+ORD0804,2027-03-15,1161,Keyboard,Accessories,4,2236,Debit Card,Kolkata,8944
+ORD0805,2027-03-16,1098,Mouse,Accessories,3,1008,UPI,Bangalore,3024
+ORD0806,2027-03-17,1105,Monitor,Computers,5,6449,Cash on Delivery,Delhi,32245
+ORD0807,2027-03-18,1099,Laptop,Computers,1,59426,Debit Card,Delhi,59426
+ORD0808,2027-03-19,1129,Mouse,Accessories,3,911,UPI,Chennai,2733
+ORD0809,2027-03-20,1149,Monitor,Computers,4,12509,Credit Card,Bangalore,50036
+ORD0810,2027-03-21,1055,Mouse,Accessories,2,1131,UPI,Jaipur,2262
+ORD0811,2027-03-22,1006,Keyboard,Accessories,1,1962,Cash on Delivery,Hyderabad,1962
+ORD0812,2027-03-23,1197,Laptop,Computers,2,44637,Cash on Delivery,Pune,89274
+ORD0813,2027-03-24,1095,Smartwatch,Electronics,3,11990,Cash on Delivery,Chennai,35970
+ORD0814,2027-03-25,1133,Smartwatch,Electronics,5,4425,Cash on Delivery,Hyderabad,22125
+ORD0815,2027-03-26,1102,Keyboard,Accessories,5,2132,Cash on Delivery,Delhi,10660
+ORD0816,2027-03-27,1003,Tablet,Electronics,4,36950,Debit Card,Bangalore,147800
+ORD0817,2027-03-28,1181,Laptop,Computers,5,58488,Cash on Delivery,Chennai,292440
+ORD0818,2027-03-29,1023,Mobile,Electronics,1,49008,Debit Card,Bangalore,49008
+ORD0819,2027-03-30,1053,Monitor,Computers,5,21896,Credit Card,Delhi,109480
+ORD0820,2027-03-31,1165,Laptop,Computers,4,35215,Cash on Delivery,Chennai,140860
+ORD0821,2027-04-01,1083,Tablet,Electronics,3,17299,Cash on Delivery,Delhi,51897
+ORD0822,2027-04-02,1145,Tablet,Electronics,3,21523,UPI,Mumbai,64569
+ORD0823,2027-04-03,1085,Keyboard,Accessories,5,2672,Credit Card,Delhi,13360
+ORD0824,2027-04-04,1078,Mouse,Accessories,2,1405,Cash on Delivery,Jaipur,2810
+ORD0825,2027-04-05,1110,Laptop,Computers,3,58834,Cash on Delivery,Jaipur,176502
+ORD0826,2027-04-06,1001,Monitor,Computers,5,6706,Credit Card,Bangalore,33530
+ORD0827,2027-04-07,1051,Laptop,Computers,4,78066,Debit Card,Pune,312264
+ORD0828,2027-04-08,1173,Headphones,Accessories,5,2067,Cash on Delivery,Delhi,10335
+ORD0829,2027-04-09,1004,Mouse,Accessories,3,460,UPI,Hyderabad,1380
+ORD0830,2027-04-10,1190,Monitor,Computers,4,15345,Cash on Delivery,Jaipur,61380
+ORD0831,2027-04-11,1193,Smartwatch,Electronics,5,2628,UPI,Kolkata,13140
+ORD0832,2027-04-12,1113,Monitor,Computers,1,24894,UPI,Pune,24894
+ORD0833,2027-04-13,1032,Mobile,Electronics,4,38899,Cash on Delivery,Mumbai,155596
+ORD0834,2027-04-14,1034,Keyboard,Accessories,1,2865,Cash on Delivery,Chennai,2865
+ORD0835,2027-04-15,1092,Mobile,Electronics,2,15583,UPI,Chennai,31166
+ORD0836,2027-04-16,1095,Monitor,Computers,4,9897,Credit Card,Jaipur,39588
+ORD0837,2027-04-17,1072,Mouse,Accessories,1,1922,Credit Card,Pune,1922
+ORD0838,2027-04-18,1039,Laptop,Computers,3,41001,Cash on Delivery,Jaipur,123003
+ORD0839,2027-04-19,1154,Smartwatch,Electronics,3,6067,Debit Card,Chennai,18201
+ORD0840,2027-04-20,1162,Laptop,Computers,2,44271,Credit Card,Kolkata,88542
+ORD0841,2027-04-21,1182,Mouse,Accessories,4,924,Cash on Delivery,Delhi,3696
+ORD0842,2027-04-22,1118,Monitor,Computers,4,19348,Credit Card,Pune,77392
+ORD0843,2027-04-23,1003,Tablet,Electronics,4,21703,Debit Card,Bangalore,86812
+ORD0844,2027-04-24,1123,Laptop,Computers,2,48329,Cash on Delivery,Delhi,96658
+ORD0845,2027-04-25,1050,Tablet,Electronics,4,12741,Debit Card,Delhi,50964
+ORD0846,2027-04-26,1012,Laptop,Computers,3,41256,Cash on Delivery,Delhi,123768
+ORD0847,2027-04-27,1193,Laptop,Computers,1,35228,Debit Card,Bangalore,35228
+ORD0848,2027-04-28,1054,Smartwatch,Electronics,3,9862,Credit Card,Kolkata,29586
+ORD0849,2027-04-29,1133,Keyboard,Accessories,3,794,Credit Card,Mumbai,2382
+ORD0850,2027-04-30,1057,Keyboard,Accessories,1,688,Debit Card,Kolkata,688
+ORD0851,2027-05-01,1145,Headphones,Accessories,3,925,Debit Card,Kolkata,2775
+ORD0852,2027-05-02,1112,Mobile,Electronics,2,33185,Debit Card,Kolkata,66370
+ORD0853,2027-05-03,1047,Mouse,Accessories,1,1218,Cash on Delivery,Hyderabad,1218
+ORD0854,2027-05-04,1151,Mouse,Accessories,3,1505,Credit Card,Jaipur,4515
+ORD0855,2027-05-05,1085,Mouse,Accessories,5,798,Cash on Delivery,Chennai,3990
+ORD0856,2027-05-06,1142,Headphones,Accessories,3,3309,Credit Card,Jaipur,9927
+ORD0857,2027-05-07,1066,Keyboard,Accessories,2,1365,UPI,Pune,2730
+ORD0858,2027-05-08,1075,Monitor,Computers,4,14017,Cash on Delivery,Kolkata,56068
+ORD0859,2027-05-09,1179,Tablet,Electronics,3,13779,Credit Card,Mumbai,41337
+ORD0860,2027-05-10,1103,Smartwatch,Electronics,4,11550,Credit Card,Pune,46200
+ORD0861,2027-05-11,1166,Tablet,Electronics,5,12118,Cash on Delivery,Jaipur,60590
+ORD0862,2027-05-12,1192,Monitor,Computers,3,11391,Cash on Delivery,Chennai,34173
+ORD0863,2027-05-13,1038,Smartwatch,Electronics,1,1645,Credit Card,Bangalore,1645
+ORD0864,2027-05-14,1050,Headphones,Accessories,4,4077,Cash on Delivery,Jaipur,16308
+ORD0865,2027-05-15,1098,Monitor,Computers,5,21576,Debit Card,Delhi,107880
+ORD0866,2027-05-16,1082,Mouse,Accessories,1,1391,Cash on Delivery,Jaipur,1391
+ORD0867,2027-05-17,1030,Mobile,Electronics,1,49405,Cash on Delivery,Delhi,49405
+ORD0868,2027-05-18,1079,Laptop,Computers,1,63464,Cash on Delivery,Bangalore,63464
+ORD0869,2027-05-19,1091,Tablet,Electronics,1,18243,Credit Card,Jaipur,18243
+ORD0870,2027-05-20,1179,Keyboard,Accessories,3,2910,Debit Card,Mumbai,8730
+ORD0871,2027-05-21,1191,Keyboard,Accessories,3,2320,UPI,Mumbai,6960
+ORD0872,2027-05-22,1052,Headphones,Accessories,3,3464,UPI,Pune,10392
+ORD0873,2027-05-23,1166,Smartwatch,Electronics,5,4021,Debit Card,Bangalore,20105
+ORD0874,2027-05-24,1079,Keyboard,Accessories,5,2369,Debit Card,Kolkata,11845
+ORD0875,2027-05-25,1030,Mouse,Accessories,5,820,Debit Card,Mumbai,4100
+ORD0876,2027-05-26,1106,Tablet,Electronics,2,15882,Credit Card,Jaipur,31764
+ORD0877,2027-05-27,1051,Monitor,Computers,5,6867,UPI,Bangalore,34335
+ORD0878,2027-05-28,1081,Mouse,Accessories,3,1621,Debit Card,Chennai,4863
+ORD0879,2027-05-29,1133,Headphones,Accessories,3,3238,Credit Card,Delhi,9714
+ORD0880,2027-05-30,1029,Mouse,Accessories,2,1521,UPI,Jaipur,3042
+ORD0881,2027-05-31,1132,Monitor,Computers,2,24583,Cash on Delivery,Delhi,49166
+ORD0882,2027-06-01,1138,Mobile,Electronics,5,37155,Credit Card,Delhi,185775
+ORD0883,2027-06-02,1184,Headphones,Accessories,4,4505,UPI,Kolkata,18020
+ORD0884,2027-06-03,1145,Mobile,Electronics,2,39511,Credit Card,Bangalore,79022
+ORD0885,2027-06-04,1074,Laptop,Computers,1,50424,UPI,Bangalore,50424
+ORD0886,2027-06-05,1017,Mobile,Electronics,3,10240,UPI,Pune,30720
+ORD0887,2027-06-06,1084,Laptop,Computers,1,39631,Cash on Delivery,Delhi,39631
+ORD0888,2027-06-07,1069,Laptop,Computers,3,44599,Credit Card,Pune,133797
+ORD0889,2027-06-08,1034,Mobile,Electronics,3,34658,Debit Card,Kolkata,103974
+ORD0890,2027-06-09,1006,Headphones,Accessories,2,4268,Cash on Delivery,Delhi,8536
+ORD0891,2027-06-10,1053,Smartwatch,Electronics,2,10642,Cash on Delivery,Pune,21284
+ORD0892,2027-06-11,1194,Monitor,Computers,1,12995,UPI,Pune,12995
+ORD0893,2027-06-12,1126,Mouse,Accessories,3,910,Debit Card,Chennai,2730
+ORD0894,2027-06-13,1043,Mouse,Accessories,1,873,Credit Card,Pune,873
+ORD0895,2027-06-14,1115,Monitor,Computers,4,18276,Debit Card,Bangalore,73104
+ORD0896,2027-06-15,1111,Tablet,Electronics,1,29989,Debit Card,Pune,29989
+ORD0897,2027-06-16,1151,Tablet,Electronics,5,22746,Debit Card,Delhi,113730
+ORD0898,2027-06-17,1183,Laptop,Computers,1,79243,Debit Card,Pune,79243
+ORD0899,2027-06-18,1080,Laptop,Computers,5,53557,Debit Card,Mumbai,267785
+ORD0900,2027-06-19,1095,Headphones,Accessories,5,3984,UPI,Hyderabad,19920
+ORD0901,2027-06-20,1118,Keyboard,Accessories,5,2022,UPI,Delhi,10110
+ORD0902,2027-06-21,1144,Mobile,Electronics,4,16568,Cash on Delivery,Mumbai,66272
+ORD0903,2027-06-22,1008,Laptop,Computers,1,70369,UPI,Kolkata,70369
+ORD0904,2027-06-23,1132,Mouse,Accessories,1,909,Cash on Delivery,Delhi,909
+ORD0905,2027-06-24,1104,Headphones,Accessories,4,2659,Cash on Delivery,Bangalore,10636
+ORD0906,2027-06-25,1132,Mobile,Electronics,3,37025,Credit Card,Hyderabad,111075
+ORD0907,2027-06-26,1184,Headphones,Accessories,2,4330,Debit Card,Hyderabad,8660
+ORD0908,2027-06-27,1025,Mobile,Electronics,1,14368,UPI,Bangalore,14368
+ORD0909,2027-06-28,1195,Mobile,Electronics,2,44085,Credit Card,Hyderabad,88170
+ORD0910,2027-06-29,1096,Monitor,Computers,4,18272,UPI,Bangalore,73088
+ORD0911,2027-06-30,1195,Laptop,Computers,3,36230,Cash on Delivery,Mumbai,108690
+ORD0912,2027-07-01,1155,Smartwatch,Electronics,3,2633,UPI,Kolkata,7899
+ORD0913,2027-07-02,1093,Headphones,Accessories,3,1801,Debit Card,Chennai,5403
+ORD0914,2027-07-03,1160,Smartwatch,Electronics,4,3410,Cash on Delivery,Delhi,13640
+ORD0915,2027-07-04,1178,Headphones,Accessories,5,2005,Cash on Delivery,Bangalore,10025
+ORD0916,2027-07-05,1061,Monitor,Computers,5,23300,Credit Card,Delhi,116500
+ORD0917,2027-07-06,1122,Mouse,Accessories,2,1196,Debit Card,Kolkata,2392
+ORD0918,2027-07-07,1051,Smartwatch,Electronics,5,8496,Cash on Delivery,Mumbai,42480
+ORD0919,2027-07-08,1147,Mouse,Accessories,5,1800,Debit Card,Chennai,9000
+ORD0920,2027-07-09,1021,Tablet,Electronics,3,12757,UPI,Kolkata,38271
+ORD0921,2027-07-10,1005,Laptop,Computers,3,61532,Debit Card,Mumbai,184596
+ORD0922,2027-07-11,1092,Laptop,Computers,2,41464,Cash on Delivery,Hyderabad,82928
+ORD0923,2027-07-12,1170,Keyboard,Accessories,1,678,Credit Card,Delhi,678
+ORD0924,2027-07-13,1061,Monitor,Computers,2,14088,Cash on Delivery,Jaipur,28176
+ORD0925,2027-07-14,1022,Mouse,Accessories,2,518,Debit Card,Chennai,1036
+ORD0926,2027-07-15,1149,Mobile,Electronics,4,18683,Debit Card,Hyderabad,74732
+ORD0927,2027-07-16,1070,Headphones,Accessories,4,560,Cash on Delivery,Kolkata,2240
+ORD0928,2027-07-17,1001,Laptop,Computers,2,44269,Debit Card,Chennai,88538
+ORD0929,2027-07-18,1133,Smartwatch,Electronics,2,8181,UPI,Hyderabad,16362
+ORD0930,2027-07-19,1012,Headphones,Accessories,2,3395,Cash on Delivery,Mumbai,6790
+ORD0931,2027-07-20,1090,Headphones,Accessories,5,4660,Credit Card,Bangalore,23300
+ORD0932,2027-07-21,1046,Keyboard,Accessories,4,1085,Cash on Delivery,Delhi,4340
+ORD0933,2027-07-22,1034,Mouse,Accessories,2,470,UPI,Pune,940
+ORD0934,2027-07-23,1177,Laptop,Computers,3,67016,UPI,Pune,201048
+ORD0935,2027-07-24,1078,Headphones,Accessories,3,4460,UPI,Mumbai,13380
+ORD0936,2027-07-25,1045,Laptop,Computers,5,46962,UPI,Kolkata,234810
+ORD0937,2027-07-26,1155,Mobile,Electronics,5,43302,UPI,Delhi,216510
+ORD0938,2027-07-27,1073,Keyboard,Accessories,1,2655,Credit Card,Kolkata,2655
+ORD0939,2027-07-28,1026,Mobile,Electronics,1,49725,Debit Card,Delhi,49725
+ORD0940,2027-07-29,1047,Laptop,Computers,1,44196,UPI,Mumbai,44196
+ORD0941,2027-07-30,1121,Tablet,Electronics,5,20691,UPI,Delhi,103455
+ORD0942,2027-07-31,1056,Smartwatch,Electronics,5,6825,Cash on Delivery,Bangalore,34125
+ORD0943,2027-08-01,1094,Laptop,Computers,5,48327,Credit Card,Kolkata,241635
+ORD0944,2027-08-02,1107,Mouse,Accessories,3,626,Credit Card,Mumbai,1878
+ORD0945,2027-08-03,1063,Headphones,Accessories,5,3206,Debit Card,Bangalore,16030
+ORD0946,2027-08-04,1048,Headphones,Accessories,3,501,Credit Card,Delhi,1503
+ORD0947,2027-08-05,1061,Mobile,Electronics,1,34700,Cash on Delivery,Mumbai,34700
+ORD0948,2027-08-06,1081,Smartwatch,Electronics,1,2604,Cash on Delivery,Delhi,2604
+ORD0949,2027-08-07,1026,Keyboard,Accessories,1,2361,Debit Card,Kolkata,2361
+ORD0950,2027-08-08,1036,Tablet,Electronics,2,15269,Cash on Delivery,Mumbai,30538
+ORD0951,2027-08-09,1001,Monitor,Computers,2,16112,UPI,Delhi,32224
+ORD0952,2027-08-10,1008,Smartwatch,Electronics,4,9820,UPI,Kolkata,39280
+ORD0953,2027-08-11,1113,Headphones,Accessories,4,937,Cash on Delivery,Bangalore,3748
+ORD0954,2027-08-12,1099,Mouse,Accessories,4,1050,Debit Card,Jaipur,4200
+ORD0955,2027-08-13,1180,Smartwatch,Electronics,2,4629,Credit Card,Bangalore,9258
+ORD0956,2027-08-14,1047,Mobile,Electronics,2,40930,Debit Card,Delhi,81860
+ORD0957,2027-08-15,1127,Mobile,Electronics,4,27285,Credit Card,Mumbai,109140
+ORD0958,2027-08-16,1056,Monitor,Computers,4,19380,Cash on Delivery,Pune,77520
+ORD0959,2027-08-17,1014,Mouse,Accessories,5,1420,Cash on Delivery,Bangalore,7100
+ORD0960,2027-08-18,1028,Keyboard,Accessories,4,1802,UPI,Bangalore,7208
+ORD0961,2027-08-19,1078,Smartwatch,Electronics,5,8178,Credit Card,Kolkata,40890
+ORD0962,2027-08-20,1130,Mouse,Accessories,3,1733,Debit Card,Hyderabad,5199
+ORD0963,2027-08-21,1109,Keyboard,Accessories,2,890,Cash on Delivery,Pune,1780
+ORD0964,2027-08-22,1154,Mouse,Accessories,4,1367,Debit Card,Delhi,5468
+ORD0965,2027-08-23,1014,Mouse,Accessories,2,326,UPI,Jaipur,652
+ORD0966,2027-08-24,1187,Laptop,Computers,2,41937,Credit Card,Mumbai,83874
+ORD0967,2027-08-25,1056,Mobile,Electronics,2,49886,Credit Card,Hyderabad,99772
+ORD0968,2027-08-26,1115,Smartwatch,Electronics,3,2047,Cash on Delivery,Delhi,6141
+ORD0969,2027-08-27,1007,Mouse,Accessories,1,920,Credit Card,Chennai,920
+ORD0970,2027-08-28,1003,Smartwatch,Electronics,4,10258,Cash on Delivery,Jaipur,41032
+ORD0971,2027-08-29,1111,Monitor,Computers,1,10338,UPI,Bangalore,10338
+ORD0972,2027-08-30,1151,Mouse,Accessories,1,484,Credit Card,Chennai,484
+ORD0973,2027-08-31,1107,Headphones,Accessories,1,3640,Cash on Delivery,Bangalore,3640
+ORD0974,2027-09-01,1018,Mobile,Electronics,2,24201,Debit Card,Bangalore,48402
+ORD0975,2027-09-02,1038,Headphones,Accessories,5,1305,Cash on Delivery,Chennai,6525
+ORD0976,2027-09-03,1115,Smartwatch,Electronics,2,9298,Credit Card,Jaipur,18596
+ORD0977,2027-09-04,1015,Smartwatch,Electronics,2,5291,UPI,Kolkata,10582
+ORD0978,2027-09-05,1192,Mobile,Electronics,1,13225,Credit Card,Chennai,13225
+ORD0979,2027-09-06,1119,Smartwatch,Electronics,2,11818,Credit Card,Delhi,23636
+ORD0980,2027-09-07,1028,Headphones,Accessories,1,2960,Cash on Delivery,Hyderabad,2960
+ORD0981,2027-09-08,1039,Mouse,Accessories,5,845,Debit Card,Hyderabad,4225
+ORD0982,2027-09-09,1185,Mouse,Accessories,4,1932,Credit Card,Chennai,7728
+ORD0983,2027-09-10,1017,Laptop,Computers,1,58110,Debit Card,Delhi,58110
+ORD0984,2027-09-11,1086,Monitor,Computers,5,15754,Cash on Delivery,Kolkata,78770
+ORD0985,2027-09-12,1126,Smartwatch,Electronics,4,8981,Debit Card,Hyderabad,35924
+ORD0986,2027-09-13,1044,Headphones,Accessories,3,2579,Cash on Delivery,Delhi,7737
+ORD0987,2027-09-14,1025,Smartwatch,Electronics,1,7930,UPI,Kolkata,7930
+ORD0988,2027-09-15,1145,Smartwatch,Electronics,1,4614,Debit Card,Delhi,4614
+ORD0989,2027-09-16,1013,Keyboard,Accessories,3,2426,Debit Card,Bangalore,7278
+ORD0990,2027-09-17,1025,Laptop,Computers,3,55028,UPI,Hyderabad,165084
+ORD0991,2027-09-18,1068,Headphones,Accessories,1,1703,Debit Card,Kolkata,1703
+ORD0992,2027-09-19,1138,Headphones,Accessories,3,2259,UPI,Hyderabad,6777
+ORD0993,2027-09-20,1067,Smartwatch,Electronics,2,4065,Credit Card,Bangalore,8130
+ORD0994,2027-09-21,1109,Laptop,Computers,4,38174,Cash on Delivery,Chennai,152696
+ORD0995,2027-09-22,1146,Mouse,Accessories,4,1333,UPI,Bangalore,5332
+ORD0996,2027-09-23,1111,Headphones,Accessories,4,3130,Debit Card,Hyderabad,12520
+ORD0997,2027-09-24,1111,Mouse,Accessories,2,1413,UPI,Hyderabad,2826
+ORD0998,2027-09-25,1034,Laptop,Computers,3,39321,Debit Card,Jaipur,117963
+ORD0999,2027-09-26,1111,Mouse,Accessories,5,969,Credit Card,Kolkata,4845
+ORD1000,2027-09-27,1008,Mobile,Electronics,3,40435,UPI,Chennai,121305
